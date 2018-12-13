@@ -1,0 +1,222 @@
+﻿<!DOCTYPE html>
+<html ng-app="myapp">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>RTS Events</title>
+    <meta content="" name="description" />
+    <meta content="" name="keywords" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta content="telephone=no" name="format-detection" />
+    <meta name="HandheldFriendly" content="true" />
+    <link rel="stylesheet" href="assets/css/master.css" />
+    <link href="assets/plugins/switcher/css/switcher.css" rel="stylesheet" id="switcher-css" />
+    <link href="assets/plugins/switcher/css/color1.css" rel="alternate stylesheet" title="color1" />
+    <link href="assets/plugins/switcher/css/color2.css" rel="alternate stylesheet" title="color2" />
+    <link href="assets/plugins/switcher/css/color3.css" rel="alternate stylesheet" title="color3" />
+    <link href="assets/plugins/switcher/css/color4.css" rel="alternate stylesheet" title="color4" />
+    <link href="assets/plugins/switcher/css/color5.css" rel="alternate stylesheet" title="color5" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <style>
+       
+    </style>
+</head>
+<body ng-controller="adminCtrl" style="margin-top:-50px;">
+
+
+    <div data-canvas="container">
+
+
+        <!-- Loader end-->
+        <!-- Start Switcher-->
+        <div class="switcher-wrapper">
+            <div class="demo_changer">
+                <div class="demo-icon text-primary"><i class="fa fa-cog fa-spin fa-2x"></i></div>
+                <div class="form_holder">
+                    <div class="predefined_styles">
+                        <div class="skin-theme-switcher">
+                            <h4>Color</h4><a href="javascript:void(0);" data-switchcolor="color1" style="background-color:#fe3e01;" class="styleswitch"></a><a href="javascript:void(0);" data-switchcolor="color2" style="background-color:#FFAC3A;" class="styleswitch"></a><a href="javascript:void(0);" data-switchcolor="color3" style="background-color:#28af0f;" class="styleswitch"></a><a href="javascript:void(0);" data-switchcolor="color4" style="background-color:#e425e9;" class="styleswitch"></a><a href="javascript:void(0);" data-switchcolor="color5" style="background-color:#0c02bd;" class="styleswitch"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end switcher-->
+        <!-- ==========================-->
+        <!-- SEARCH MODAL-->
+        <!-- ==========================-->
+        <div class="header-search open-search">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1">
+                        <div class="navbar-search">
+                            <form class="search-global">
+                                <input type="text" placeholder="Type to search" autocomplete="off" name="s" value="" class="search-global__input" />
+                                <button class="search-global__btn"><i class="icon stroke icon-Search"></i></button>
+                                <div class="search-global__note">Begin typing your search above and press return to search.</div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <button type="button" class="search-close close"><i class="fa fa-times"></i></button>
+        </div>
+        <!-- ==========================-->
+        <!-- MOBILE MENU-->
+        <!-- ==========================-->
+        <div data-off-canvas="mobile-slidebar left overlay">
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                <li ng-show="auth.authenticated"><a  style="color:black;background-color:lightgoldenrodyellow;width:100px; margin-right:10px;" class="btn" href="#/productview">Product</a></li>
+                <li ng-show="auth.authenticated"><a  style="color: black; background-color: lightgoldenrodyellow; width: 100px; margin-right: 10px;" class="btn" href="#/Catagoryview">Category</a></li>
+                <li ng-show="auth.authenticated"><a  style="color: black; background-color: lightgoldenrodyellow; width: 100px; margin-right: 10px;" class="btn" href="#/eventview">Event</a></li>
+                <li ng-show="auth.authenticated"><a  style="color: black; background-color: lightgoldenrodyellow; width: 100px; margin-right: 10px;" class="btn" href="#/Orders">Oredrs</a></li>
+                <li ng-show="auth.authenticated" style="margin-left:250px;"><i class="stroke icon-Search"></i> <input style="color:black;border-radius:10px;width:100px;text-align:center;" placeholder="Search" type="text" ng-model="sa" /></li>
+            </ul>
+        </div>
+        <!-- ==========================-->
+        <!-- FULL SCREEN MENU-->
+        <!-- ==========================-->
+        <div class="wrap-fixed-menu" id="fixedMenu">
+            <nav class="fullscreen-center-menu">
+                <div class="menu-main-menu-container">
+
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li ng-show="auth.authenticated"><a  style="color:black;background-color:lightgoldenrodyellow;width:100px; margin-right:10px;" class="btn" href="#/productview">Product</a></li>
+                        <li ng-show="auth.authenticated"><a  style="color: black; background-color: lightgoldenrodyellow; width: 100px; margin-right: 10px;" class="btn" href="#/Catagoryview">Category</a></li>
+                        <li ng-show="auth.authenticated"><a  style="color: black; background-color: lightgoldenrodyellow; width: 100px; margin-right: 10px;" class="btn" href="#/eventview">Event</a></li>
+                        <li ng-show="auth.authenticated"><a  style="color: black; background-color: lightgoldenrodyellow; width: 100px; margin-right: 10px;" class="btn" href="#/Orders">Oredrs</a></li>
+                        <li ng-show="auth.authenticated" style="margin-left:250px;"><i class="stroke icon-Search"></i> <input style="color:black;border-radius:10px;width:100px;text-align:center;" placeholder="Search" type="text" ng-model="sa" /></li>
+                    </ul>
+
+
+
+                </div>
+            </nav>
+            <button type="button" class="fullmenu-close"><i class="fa fa-times"></i></button>
+        </div>
+    </div>
+
+    <div class="navbar-collapse collapse">
+   
+        <ul class="nav navbar-nav navbar-right">
+            <li ng-show="auth.authenticated"><a><span class="glyphicon glyphicon-user"></span>{{auth.username}} </a></li>
+            <li ng-show="auth.authenticated"><a href="" ng-click="signout()"><span class="glyphicon glyphicon-log-out"></span> Log Out</a></li>
+            <li ng-show="!auth.authenticated"><a href="" ng-click="showLoginForm()"><span class="glyphicon glyphicon-log-in"></span> Log In</a></li>
+        </ul>
+    </div>
+
+    <div class="demo-body demo-header1 section-bg section-bg_dark">
+        <div class="section-bg__inner">
+            <header  class="header header-topbar-hidden header-full-width navbar-fixed-top header-color-white header-logo-white header-topbarbox-1-left header-topbarbox-2-right header-navibox-1-left header-navibox-2-right header-navibox-3-right header-navibox-4-right">
+
+                <div class="container container-boxed-width">
+                    <nav id="nav" class="navbar">
+                        <div class="container">
+                            <div class="header-navibox-1">
+                                <!-- Mobile Trigger Start-->
+                                <button class="menu-mobile-button visible-xs-block js-toggle-mobile-slidebar toggle-menu-button"><i class="toggle-menu-button-icon"><span></span><span></span><span></span><span></span><span></span><span></span></i></button>
+                                <!-- Mobile Trigger End-->
+
+                                @*<div class="header-cart"><a href="#"><i aria-hidden="true" class="stroke icon-ShoppingCart"></i></a><span class="header-cart-count bg-primary">3</span></div>*@
+                                <ul style="color:red;" class="yamm main-menu nav navbar-nav">
+                                  <li><a style="margin-top:-50px;" href="#/home" class="navbar-brand scroll"><img src="assets/media/general/logo.png" alt="logo" class="normal-logo" /><img src="assets/media/general/logo-dark.png" alt="logo" class="scroll-logo hidden-xs" /></a>
+</li>
+                                    <li>@Html.ActionLink("Home", "Index", "Home" )</li>
+                                    @*<li><a style="color:black;background-color:lightgoldenrodyellow;width:100px; margin-right:10px;" class="btn" href="#">home</a></li>*@
+                                    <li ng-show="auth.authenticated"><a  style="color:black;background-color:lightgoldenrodyellow;width:100px; margin-right:10px;" class="btn" href="#/productview">Product</a></li>
+                                    <li ng-show="auth.authenticated"><a  style="color: black; background-color: lightgoldenrodyellow; width: 100px; margin-right: 10px;" class="btn" href="#/Catagoryview">Category</a></li>
+                                    <li ng-show="auth.authenticated"><a  style="color: black; background-color: lightgoldenrodyellow; width: 100px; margin-right: 10px;" class="btn" href="#/eventview">Event</a></li>
+                                    <li ng-show="auth.authenticated"><a  style="color: black; background-color: lightgoldenrodyellow; width: 100px; margin-right: 10px;" class="btn" href="#/Orders">Oredrs</a></li>
+                                    <li ng-show="auth.authenticated" ><i class="stroke icon-Search"></i> <input style="color:black;border-radius:10px;width:100px;text-align:center;" placeholder="Search" type="text" ng-model="sa" /></li>
+
+                                    
+
+
+                                </ul>
+
+                              
+                                    
+                                
+
+
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </header>
+        </div>
+    </div>
+
+    <!-- end .header-->
+
+    <div style="padding: 50px; background-color: lightgoldenrodyellow;">
+        @RenderBody()
+    </div>
+
+    <div class="modal fade" tabindex="-1" role="dialog" id="loginModal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header modal-header-primary">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title"><span class="glyphicon glyphicon-log-in"></span> Log in</h4>
+                </div>
+                <div class="modal-body">
+
+                    <p>You must login to access the resource.</p>
+                    <div class="alert alert-danger" ng-show="loginError">
+                        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4>Error</h4>
+                        <p>{{loginError}}</p>
+                    </div>
+                    <form name="loginForm">
+                        <div class="form-group">
+                            <div class="input-group">
+                                <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                                <input type="email" class="form-control" ng-model="loginModel.username" required placeholder="email" />
+                            </div>
+
+
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group">
+                                <span class="input-group-addon"><span class="glyphicon glyphicon-lock"></span></span>
+                                <input type="password" class="form-control" ng-model="loginModel.password" placeholder="Password" required />
+                            </div>
+
+
+                        </div>
+
+                    </form>
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" class="btn btn-primary" form="loginForm" ng-disabled="loginForm.$invalid" ng-click="signin()">Log in</button>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div>
+
+        
+
+    <footer class="footer">
+        <div class="footer__main">
+            <div class="col-xs-12">
+                <div class="text-center"><a href="#/home" class="footer__logo"><img src="assets/media/general/logo.png" alt="Logo" class="img-responsive" /></a></div>
+            </div>
+        </div>
+        <div style="background-color: #222222;" class="footer__bottom">
+            <div class="copyright pull-right">© 2018<strong> RTS_Events</strong> - The Events Specialists All Rights Reserved.</div>
+        </div>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

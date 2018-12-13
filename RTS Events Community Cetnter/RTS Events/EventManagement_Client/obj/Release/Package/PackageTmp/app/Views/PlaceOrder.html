@@ -1,0 +1,201 @@
+﻿<div ng-controller="checkoutCtrl" style="margin-top:-100px; padding:100px; background-color:#f6f1f1">
+ 
+
+    <div class="col-md-12" style="z-index:9999999">
+
+        <h2><i class="fa fa-shopping-basket" aria-hidden="true"></i> Place Order</h2><hr />
+        <div class="text-center" style="padding-bottom:15px;"><h3>Customer Information</h3></div>
+        <form name="checkoutForm" novalidate>
+            <div class="form-group" ng-class="{'has-error':checkoutForm.CustomerName.$invalid && !checkoutForm.CustomerName.$pristine}">
+                <label class="control-label">Customer Name</label>
+                <input type="text" class="form-control" name="CustomerName" ng-model="shippingDetail.CustomerName" required ng-maxlength="50" />
+                <div ng-show="checkoutForm.CustomerName.$error.required && !checkoutForm.CustomerName.$pristine" class="help-block">Customer Name is required!</div>
+                <div ng-show="checkoutForm.CustomerName.$error.maxlength" class="help-block">Customer Name too long!</div>
+            </div>
+            <div class="form-group" ng-class="{'has-error':checkoutForm.ShippingAddress.$invalid && !checkoutForm.ShippingAddress.$pristine}">
+                <label class="control-label">Shipping Address</label>
+                <textarea type="text" class="form-control" name="ShippingAddress" ng-model="shippingDetail.ShippingAddress" required 
+                          ng-maxlength="250"></textarea>
+                <div ng-show="checkoutForm.ShippingAddress.$error.required && !checkoutForm.ShippingAddress.$pristine" class="help-block">Shipping addrress is required!</div>
+                <div ng-show="checkoutForm.ShippingAddress.$error.maxlength" class="help-block">Shipping address too long!</div>
+            </div>
+            <div class="form-group" ng-class="{'has-error':checkoutForm.Phone.$invalid && !checkoutForm.Phone.$pristine}">
+                <label class="control-label">Phone</label>
+                <input type="text" class="form-control" name="Phone" ng-model="shippingDetail.Phone" required ng-maxlength="20" />
+                <div ng-show="checkoutForm.Phone.$error.required && !checkoutForm.Phone.$pristine" class="help-block">Shipping addrress is required!</div>
+                <div ng-show="checkoutForm.Phone.$error.maxlength" class="help-block">Shipping address too long!</div>
+            </div>
+            <div class="form-group" ng-class="{'has-error':checkoutForm.Email.$invalid && !checkoutForm.Email.$pristine}">
+                <label class="control-label">Email</label>
+                <input type="email" class="form-control" name="Email" ng-model="shippingDetail.Email" required ng-maxlength="50" />
+                <div ng-show="checkoutForm.Email.$error.required && !checkoutForm.Email.$pristine" class="help-block">Shipping addrress is required!</div>
+                <div ng-show="checkoutForm.Email.$error.email && !checkoutForm.Email.$pristine" class="help-block">Invalid email address!</div>
+                <div ng-show="checkoutForm.Email.$error.maxlength" class="help-block">
+                Shipping address too long!</div>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary" ng-disabled="checkoutForm.$invalid" ng-click="placeOrder()">Confirm Order</button>
+            </div>
+        </form>
+    </div>
+    <div style="width:500px; margin:10px auto;">
+        <div class="modal fade" tabindex="-1" role="dialog" id="paymentModal" style="z-index:999999999; margin-left:-210px;">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header" style="background-color:#f1efe8">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <p>Hello &nbsp;{{shippingDetail.CustomerName}}</p>
+                        <br />
+                        <p>Please Enter Your Card Details</p>
+
+                    </div>
+                    <div class="modal-body">
+                        <form name="paymentMethodForm" novalidate>
+
+
+                            <!-- CARD NUMBER -->
+                            <label for="card_number">CARD NUMBER</label>
+                            <div class="input-group margin-bottom-sm" ng-class="{'has-success' : paymentMethodForm.card_number.$valid && paymentMethodForm.card_number.$dirty, 'has-error' : paymentMethodForm.card_number.$invalid && !paymentMethodForm.card_number.$pristine, 'has-warning' : paymentMethodForm.card_number.$error.required }">
+                                <span class="input-group-addon"><i class="fa fa-lock"></i></span>
+                                <input type="text"
+                                       name="card_number"
+                                       ng-model="card.number"
+                                       cc-number cc-eager-type
+                                       required
+                                       class="form-control"
+                                       placeholder="Card Number"
+                                       aria-describedby="card_numberSuccess2Status">
+
+                                <!-- CREDIT CARD ICONS -->
+                                <span ng-show="paymentMethodForm.card_number.$ccEagerType=='American Express'"><i class="form-control-feedback fa fa-cc-amex"></i></span>
+                                <span ng-show="paymentMethodForm.card_number.$ccEagerType=='Discover'"><i class="form-control-feedback fa fa-cc-discover"></i></span>
+                                <span ng-show="paymentMethodForm.card_number.$ccEagerType=='MasterCard'"><i class="form-control-feedback fa fa-cc-mastercard"></i></span>
+                                <span ng-show="paymentMethodForm.card_number.$ccEagerType=='Diners Club'"><i class="form-control-feedback fa fa-cc-mastercard"></i></span>
+                                <span ng-show="paymentMethodForm.card_number.$ccEagerType=='Visa'"><i class="form-control-feedback fa fa-cc-visa"></i></span>
+                                <span ng-show="paymentMethodForm.card_number.$ccEagerType==''"><i class="form-control-feedback fa fa-credit-card"></i></span>
+
+                            </div>
+
+                            <p ng-show="paymentMethodForm.card_number.$error.required && paymentMethodForm.card_number.$dirty" class="bg-danger text-danger">
+                                <span>CARD NUMBER IS REQUIRED</span>.
+                            </p>
+
+                            <div cc-exp>
+                                <div class="row">
+                                    <div class="col-md-4 col-xs-4">
+                                        <!-- EXP MONTH -->
+                                        <label for="exp_month">EXPIRE MONTH</label>
+                                        <div class="input-group margin-bottom-sm" ng-class="{'has-success' : paymentMethodForm.exp_month.$valid && paymentMethodForm.exp_month.$dirty, 'has-error' : paymentMethodForm.exp_month.$invalid && !paymentMethodForm.exp_month.$pristine, 'has-warning' : paymentMethodForm.exp_month.$error.required }">
+
+                                            <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
+
+                                            <select name="exp_month"
+                                                    ng-model="card.exp_month"
+                                                    cc-exp-month
+                                                    required
+                                                    class="form-control"
+                                                    aria-describedby="exp_monthSuccess2Status">
+                                                <option value="01">01</option>
+                                                <option value="02">02</option>
+                                                <option value="03">03</option>
+                                                <option value="04">04</option>
+                                                <option value="05">05</option>
+                                                <option value="06">06</option>
+                                                <option value="07">07</option>
+                                                <option value="08">08</option>
+                                                <option value="09">09</option>
+                                                <option value="10">10</option>
+                                                <option value="11">11</option>
+                                                <option value="12">12</option>
+                                            </select>
+
+                                        </div>
+
+                                        <p ng-show="paymentMethodForm.exp_month.$error.required && paymentMethodForm.exp_month.$dirty" class="bg-danger text-danger">
+                                            <span>EXPIRE MONTH IS REQUIRED</span>.
+                                        </p>
+                                    </div>
+
+                                    <div class="col-md-4 col-xs-4">
+                                        <!-- EXP YEAR -->
+                                        <label for="exp_year">EXPIRE YEAR</label>
+                                        <div class="input-group margin-bottom-sm" ng-class="{'has-success' : paymentMethodForm.exp_year.$valid && paymentMethodForm.exp_year.$dirty, 'has-error' : paymentMethodForm.exp_year.$invalid && !paymentMethodForm.exp_year.$pristine, 'has-warning' : paymentMethodForm.exp_year.$error.required }">
+
+                                            <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
+                                            <select name="exp_year"
+                                                    required
+                                                    ng-model="card.exp_year"
+                                                    cc-exp-year
+                                                    class="form-control"
+                                                    aria-describedby="exp_yearSuccess2Status">
+                                                <option value="15">2015</option>
+                                                <option value="16">2016</option>
+                                                <option value="17">2017</option>
+                                                <option value="18">2018</option>
+                                                <option value="19">2019</option>
+                                                <option value="20">2020</option>
+                                                <option value="21">2021</option>
+                                                <option value="22">2022</option>
+                                                <option value="23">2023</option>
+                                                <option value="24">2024</option>
+                                                <option value="25">2025</option>
+                                            </select>
+
+                                        </div>
+                                        <p ng-show="paymentMethodForm.exp_year.$error.required && paymentMethodForm.exp_year.$dirty" class="bg-danger text-danger">
+                                            <span>EXPIRE YEAR IS REQUIRED</span>.
+                                        </p>
+                                    </div>
+
+                                    <!-- CARD CVC -->
+                                    <div class="col-md-4 col-xs-4">
+                                        <label for="cvc">CARD_CVC</label>
+                                        <div class="input-group margin-bottom-sm" ng-class="{'has-success' : paymentMethodForm.cvc.$valid && paymentMethodForm.cvc.$dirty, 'has-error' : paymentMethodForm.cvc.$invalid && !paymentMethodForm.cvc.$pristine, 'has-warning' : paymentMethodForm.cvc.$error.required }">
+                                            <span class="input-group-addon"><i class="fa fa-lock"></i></span>
+                                            <input type="text"
+                                                   name="cvc"
+                                                   ng-model="card.cvc"
+                                                   cc-cvc
+                                                   required
+                                                   class="form-control"
+                                                   placeholder="Card CVC">
+
+                                        </div>
+                                        <p ng-show="paymentMethodForm.cvc.$error.required && paymentMethodForm.cvc.$dirty" class="bg-danger text-danger">
+                                            <span>CARD CVC IS REQUIRED</span>.
+                                        </p>
+                                    </div>
+
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-8 col-xs-8">
+                                        <!-- INVALID PAIR : EXP MONTH / EXP YEAR  -->
+                                        <p ng-show="paymentMethodForm.$error.ccExp && paymentMethodForm.exp_month.$dirty && paymentMethodForm.exp_year.$dirty" class="bg-danger text-danger">
+                                            <span>EXPIRE MONTH EXPIRE YEAR IS INVALID</span>.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- SUBMIT BUTTON -->
+                            <button type="submit" class="btn btn-success pull-right" ng-disabled="paymentMethodForm.$invalid" ng-click="pay()">
+                                PAY
+                            </button>
+                            <div class="modal-body" ng-show="loading==true">
+                                <img src="/Images/Background/processoing.gif" width="70" height="70" style="display:inline" /> Pleas Wait Transaction Is Processing......
+                            </div>
+                        </form>
+                    </div>
+                    <div class="modal-footer">
+                        <div class="text-center">
+                            <h3>We Accept</h3>
+                            <i class="fa fa-cc-amex fa-2x"></i>&nbsp;<i class="fa fa-cc-diners-club fa-2x"></i>&nbsp;<i class="fa fa-cc-discover fa-2x"></i>&nbsp;<i class="fa fa-cc-visa fa-2x"></i>&nbsp;<i class="fa fa-cc-mastercard fa-2x"></i>
+                        </div>
+                    </div>
+
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </div>
+    </div>
+</div>

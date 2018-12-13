@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagement_Api", "EventManagement_Api\EventManagement_Api.csproj", "{DF0FBD7B-F552-4E96-A57F-D2D9FC243DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagement_Client", "EventManagement_Client\EventManagement_Client.csproj", "{F8A53C6F-7FCF-407E-9FD4-853588AD1213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF0FBD7B-F552-4E96-A57F-D2D9FC243DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0FBD7B-F552-4E96-A57F-D2D9FC243DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0FBD7B-F552-4E96-A57F-D2D9FC243DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0FBD7B-F552-4E96-A57F-D2D9FC243DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8A53C6F-7FCF-407E-9FD4-853588AD1213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A53C6F-7FCF-407E-9FD4-853588AD1213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A53C6F-7FCF-407E-9FD4-853588AD1213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A53C6F-7FCF-407E-9FD4-853588AD1213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

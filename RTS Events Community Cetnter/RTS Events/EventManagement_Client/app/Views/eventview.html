@@ -1,0 +1,52 @@
+﻿<h2 style="text-align:center;">Event Information</h2>
+
+<div ng-controller="evctrl">
+   
+    <button class="btn btn-sm btn-primary img-w-radius" ng-click="showEvtForm()"><span class="glyphicon glyphicon-log-in"></span> &nbsp;&nbsp;&nbsp; Create New</button>
+
+    <div class="modal fade" tabindex="-1" role="dialog" id="EvtModal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header modal-header-primary">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title"><span class="glyphicon glyphicon-log-in"></span> Event Information</h4>
+                </div>
+                <div class="modal-body">
+
+                    <table>
+                        <tr>
+                            <th>Event ID</th>
+                            <td><input type="text" ng-model="model.eitem.EventId" disabled class="form-control" /></td>
+                        </tr>
+
+                        <tr>
+                            <th>Event Name</th>
+                            <td><input type="text" ng-model="model.eitem.EventName" class="form-control" /></td>
+                        </tr>
+                    </table>
+
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" class="btn btn-sm btn-primary img-w-radius" form="EvtForm" ng-disabled="EvtForm.$invalid" ng-click="save()">Save</button>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div>
+
+        <table class="table">
+            <tr>
+                <th>Event ID</th>
+                <th>Event Name</th>
+                <th>................</th>
+            </tr>
+            <tr ng-repeat="m in Events | filter:sa">
+                <td>{{m.EventId}}</td>
+                <td>{{m.EventName}}</td>
+                <td>
+                    <button class="btn btn-link" ng-click="edit(m.EventId)"><span class="glyphicon glyphicon-pencil"></span></button>
+                    <button class="btn btn-link" ng-click="delete(m.EventId)"><span class="glyphicon glyphicon-trash"></span></button>
+                </td>
+            </tr>
+        </table>
+    </div>

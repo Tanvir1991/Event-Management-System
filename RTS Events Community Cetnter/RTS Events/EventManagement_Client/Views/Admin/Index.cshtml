@@ -1,0 +1,92 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/adminLayout.cshtml";
+}
+<ng-view>
+
+</ng-view>
+@section scripts{
+
+<script src="assets/libs/jquery-1.12.4.min.js"></script>
+<script src="assets/libs/jquery-migrate-1.2.1.js"></script>
+<!-- Bootstrap-->
+<script src="assets/libs/bootstrap/bootstrap.min.js"></script>
+<!-- User customization-->
+<script src="assets/js/custom.js"></script>
+<!---->
+<!-- Color scheme-->
+<script src="assets/plugins/switcher/js/dmss.js"></script>
+<!-- Select customization & Color scheme-->
+<script src="assets/plugins/bootstrap-select/js/bootstrap-select.min.js"></script>
+<!-- Slider 1-->
+<script src="assets/plugins/owl-carousel/owl.carousel.min.js"></script>
+<!-- Slider 2-->
+<script src="assets/plugins/bxslider/vendor/jquery.easing.1.3.js"></script>
+<script src="assets/plugins/bxslider/vendor/jquery.fitvids.js"></script>
+<script src="assets/plugins/bxslider/jquery.bxslider.min.js"></script>
+<!-- Pop-up window-->
+<script src="assets/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+<!-- Headers scripts-->
+<script src="assets/plugins/headers/slidebar.js"></script>
+<script src="assets/plugins/headers/header.js"></script>
+<!-- Mail scripts-->
+<script src="assets/plugins/jqBootstrapValidation.js"></script>
+<script src="assets/plugins/contact_me.js"></script>
+<!-- Parallax-->
+<script src="assets/plugins/stellar/jquery.stellar.min.js"></script>
+<!-- Filter and sorting images-->
+<script src="assets/plugins/isotope/isotope.pkgd.min.js"></script>
+<script src="assets/plugins/isotope/imagesLoaded.js"></script>
+<!-- Progress numbers-->
+<script src="assets/plugins/rendro-easy-pie-chart/jquery.easypiechart.min.js"></script>
+<script src="assets/plugins/rendro-easy-pie-chart/waypoints.min.js"></script>
+<!-- Animations-->
+<script src="assets/plugins/scrollreveal/scrollreveal.min.js"></script>
+<!-- Main slider-->
+<script src="assets/plugins/slider-pro/jquery.sliderPro.min.js"></script>
+    <script src="~/Scripts/angular.min.js"></script>
+    <script src="~/Scripts/angular-route.min.js"></script>
+    <script>
+        var app = angular.module("myapp", ['ngRoute'])
+            .config(function ($locationProvider, $routeProvider) {
+                $locationProvider.hashPrefix('');
+                //$locationProvider.html5Mode({
+                //    enabled: true,
+                //    requireBase: false
+                //});
+                $routeProvider.when('/Catagoryview', {
+                    templateUrl: '/app/Views/Catagoryview.html'
+                }).when('/productview', {
+                    templateUrl: '/app/Views/productview.html'
+                }).when('/eventview', {
+                    templateUrl: '/app/Views/eventview.html'
+                }).when('/Orders', {
+                    templateUrl: '/app/Views/Orders.html'
+                }).otherwise({
+                    templateUrl: '/app/Views/anonymoushome.html'
+                })
+            }).controller("mainctrl", function ($scope) {
+
+
+
+
+            })
+
+
+        </script>
+        <script src="~/app/Service/remoteCallSvc.js"></script>
+        <script src="~/app/controller/catagorytctrl.js"></script>
+        <script src="~/app/controller/productctrl.js"></script>
+        <script src="~/app/controller/eventctrl.js"></script>
+        <script src="~/app/Filter/customfilter.js"></script>
+        <script src="~/app/Component/cart.js"></script>
+        <script src="~/app/widgest/cartSummery.js"></script>
+        <script src="~/app/controller/cartcalculation.js"></script>
+        <script src="~/app/controller/checkoutCtrl.js"></script>
+        <script src="~/app/controller/adminCtrl.js"></script>
+        <script src="~/app/Service/authStore.js"></script>
+        <script src="~/app/Service/loginSvc.js"></script>
+<script src="~/app/controller/Orders.js"></script>
+<script src="~/app/Filter/dateFilter.js"></script>
+}

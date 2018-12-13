@@ -1,0 +1,51 @@
+﻿<h2 style="text-align:center;">Category Information</h2>
+<div ng-controller="ctctrl">
+    
+    <button class="btn btn-sm btn-primary img-w-radius" ng-click="showCtgForm()"><span class="glyphicon glyphicon-log-in"></span> &nbsp;&nbsp;&nbsp; Create New</button>
+    
+    <div class="modal fade" tabindex="-1" role="dialog" id="CtgModal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header modal-header-primary">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title"><span class="glyphicon glyphicon-log-in"></span> Category Information</h4>
+                </div>
+                <div class="modal-body">
+
+                    <table>
+                        <tr>
+                            <th>Category ID</th>
+                            <td><input type="text" ng-model="model.citem.CatagoryId" disabled class="form-control" /></td>
+                        </tr>
+
+                        <tr>
+                            <th>Category Name</th>
+                            <td><input type="text" ng-model="model.citem.CatagoryName" class="form-control" /></td>
+                        </tr>
+                    </table>
+
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" class="btn btn-sm btn-primary img-w-radius" form="CtgForm" ng-disabled="CtgForm.$invalid" ng-click="save()">Save</button>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div>
+
+        <table class="table">
+            <tr>
+                <th>Category ID</th>
+                <th>Category Name</th>
+                <th>................</th>
+            </tr>
+            <tr ng-repeat="m in Catagories | filter:sa">
+                <td>{{m.CatagoryId}}</td>
+                <td>{{m.CatagoryName}}</td>
+                <td>
+                    <button class="btn btn-link" ng-click="edit(m.CatagoryId)"><span class="glyphicon glyphicon-pencil"></span></button>
+                    <button class="btn btn-link" ng-click="delete(m.CatagoryId)"><span class="glyphicon glyphicon-trash"></span></button>
+                </td>
+            </tr>
+        </table>
+    </div>

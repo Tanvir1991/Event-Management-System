@@ -1,0 +1,108 @@
+﻿<div style="z-index:999999999; Top:50px; margin-top:300px;">
+    <h1 class="label-success text-center">Thanks for your Booking Order</h1>
+
+    <div class="col-md-12">
+        <div class="col-md-4"></div>
+        <div class="col-md-4">  <img src="/app/Views/paid.jpg" />  </div>
+        <div class="col-md-4"></div>
+    </div>
+
+    <div style="padding: 100px;" ng-controller="cartcalculation">
+        <div>
+
+            <h3>Your can print your bill to keep it with you. To print <a href="#">Click here</a></h3>
+
+
+        </div>
+        <div ng-hide="cartData.length==0" id="prntData">
+
+
+            <table class="table">
+                <!--<thead>
+                    <tr>
+                        <td>Customer Name</td>
+                        <td>
+                            {{client.shippingDetail.CustomerName}}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Customer Address</td>
+                        <td>
+                            {{client.shippingDetail.Address}}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Contact No</td>
+                        <td>
+                            {{client.shippingDetail.ContactNo}}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Email</td>
+                        <td>
+                            {{client.shippingDetail.Email}}
+                        </td>
+                    </tr>
+                    <tr>
+
+                        <th>Guest</th>
+                        <th>Catagory</th>
+                        <th>Product ID</th>
+                        <th>Product Name</th>
+                        <th>Quantity</th>
+                        <th class="text-right">Product Cost</th>
+                        <th class="text-right">SubTotal</th>
+                    </tr>
+                </thead>-->
+                <tbody>
+                    <tr ng-repeat="item in cartData">
+                        <!--<td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>-->
+                        <td>{{item.Guest}}</td>
+                        <td>{{item.Category}}</td>
+                        <td>{{item.ProductId}}</td>
+                        <td>{{item.ProductName}}</td>
+
+                        <td class="text-left">{{item.qty}}</td>
+                        <td class="text-right">{{item.ProductCost |currency:""}}</td>
+                        <!--<td class="text-right">{{item.ProductCost*item.qty|currency:""}}</td>-->
+                        <td class="text-right">
+                            <div ng-if="item.Category==='Food'">
+                                {{item.ProductCost*item.qty*item.Guest|currency:""}}
+                            </div>
+
+                            <div ng-if="item.Category !='Food'">
+                                {{item.ProductCost*item.qty*1}}
+                            </div>
+
+                        </td>
+
+
+                    </tr>
+                </tbody>
+                <tfoot>
+
+                    <tr>
+                        <th colspan="5" class="text-right">Total</th>
+                        <th class="text-right" colspan="5">{{FoodCost()|currency:""}}</th>
+
+                    </tr>
+
+                </tfoot>
+
+            </table>
+
+        </div>
+
+
+        <!--This is the Checkout View
+        <a href="#/bookingView" class="btn btn-primary">back</a>-->
+
+    </div>
+
+</div>
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />

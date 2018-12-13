@@ -1,0 +1,43 @@
+﻿<h2 >Event Information</h2>
+
+
+<!--<div style="float:right;">
+    Search : <input type="text" ng-model="sa" class="btn btn-default" />
+</div>-->
+<div ng-controller="evctrl">
+
+    <table >
+        <tr>
+            <th>Event ID</th>
+            <td><input type="text" ng-model="model.item.EventId" disabled class="form-control" /></td>
+        </tr>
+
+        <tr>
+            <th>Event Name</th>
+            <td><input type="text" ng-model="model.item.EventName" class="form-control" /></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <br /><input type="button" ng-click="save()" value="Save" class="btn btn-default" />
+                <input type="button" ng-click="update(m)" value="Update" class="btn btn-default" /><br /><br />
+            </td>
+        </tr>
+    </table>
+
+    <table class="table">
+        <tr>
+            <th>Event ID</th>
+            <th>Event Name</th>
+            <th>................</th>
+        </tr>
+        <tr ng-repeat="m in Events | filter:sa">
+            <td>{{m.EventId}}</td>
+            <td>{{m.EventName}}</td>
+            <td>
+                <button class="btn btn-link" ng-click="edit(m.EventId)"><span class="glyphicon glyphicon-pencil"></span></button>
+                <button class="btn btn-link" ng-click="delete(m.EventId)"><span class="glyphicon glyphicon-trash"></span></button>
+            </td>
+        </tr>
+    </table>
+</div>

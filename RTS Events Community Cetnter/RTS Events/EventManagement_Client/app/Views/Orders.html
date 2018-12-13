@@ -1,0 +1,65 @@
+﻿<div ng-controller="orctrl">
+
+    <h1 style="text-align:center;">Order Information</h1>
+    <div class="col-md-12">
+        <div class="col-md-9">
+
+            <h3>Click on EventDates to See Each Order details</h3>
+
+            <table class="table table-condensed table-bordered color-dark">
+                <tr>
+                    <th>EventDate<br /></th>
+                    <th>Name</th>
+                    <th>Phone</th>
+                    <th>Email</th>
+                    <th>BookingDate</th>
+                    <th>GuestNo</th>
+                    <th>TotalCost</th>
+                    <th>TransactionId</th>
+                </tr>
+                <tr ng-repeat="m in BookingDetails|filter:sa |uniqueDate:'EventDate'">
+                    <td><a href="" ng-click="selectCategory(m)" ng-class="activeCategory(m)">{{m.EventDate}}</a></td>
+                    <td>{{m.CustomerName}}</td>
+                    <td>{{m.ContactNo}}</td>
+                    <td>{{m.Email}}</td>
+                    <td>{{m.BookingDate}}</td>
+                    <td>{{m.GuestNo}}</td>
+                    <td>{{m.TotalCost|currency}}</td>
+                    <td>{{m.TransactionId}}</td>
+                </tr>
+            </table>
+
+        </div>
+
+
+
+
+
+        <!--<table border="1" width="1300" style="text-align:center;">-->
+        <div class="col-md-3" id="OrderDetails" style="display:none;">
+            <h3 style="text-align:center;">Order Details</h3>
+            <table class="table table-condensed table-bordered color-dark">
+                <tr>
+                  
+                    <th>Category</th>
+                    <th>Name</th>
+                    <th>Quantity</th>
+                    <th>Cost</th>
+                </tr>
+                <tr ng-repeat="m in BookingDetails |filter:sa|filter:filterProductFn">
+
+                    
+                    <td>{{m.Catagory}}</td>
+                    <td>{{m.ProductName}}</td>
+                    <td>{{m.Quantity}}</td>
+                    <td style="text-align:right;">{{m.ProductCost|currency}}</td>
+                </tr>
+            </table>
+        </div>
+
+    </div>
+
+
+
+    <br /><br /><br /><br /><br /><br /><br /><br /><br />
+</div>

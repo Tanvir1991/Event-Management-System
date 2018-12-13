@@ -1,0 +1,42 @@
+﻿<h2>Catagory Information</h2>
+
+<!--<div style="float:right;">
+    Search : <input type="text" ng-model="sa" class="btn btn-default" />
+</div>-->
+<div ng-controller="ctctrl">
+
+    <table>
+        <tr>
+            <th>Catagory ID</th>
+            <td><input type="text" ng-model="model.item.CatagoryId" disabled class="form-control" /></td>
+        </tr>
+
+        <tr>
+            <th>Catagory Name</th>
+            <td><input type="text" ng-model="model.item.CatagoryName" class="form-control" /></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <br /><input type="button" ng-click="save()" value="Save" class="btn btn-default" />
+                <input type="button" ng-click="update(m)" value="Update" class="btn btn-default" /><br /><br />
+            </td>
+        </tr>
+    </table>
+
+    <table class="table">
+        <tr>
+            <th>Catagory ID</th>
+            <th>Catagory Name</th>
+            <th>................</th>
+        </tr>
+        <tr ng-repeat="m in Catagories | filter:sa">
+            <td>{{m.CatagoryId}}</td>
+            <td>{{m.CatagoryName}}</td>
+            <td>
+                <button class="btn btn-link" ng-click="edit(m.CatagoryId)"><span class="glyphicon glyphicon-pencil"></span></button>
+                <button class="btn btn-link" ng-click="delete(m.CatagoryId)"><span class="glyphicon glyphicon-trash"></span></button>
+            </td>
+        </tr>
+    </table>
+</div>

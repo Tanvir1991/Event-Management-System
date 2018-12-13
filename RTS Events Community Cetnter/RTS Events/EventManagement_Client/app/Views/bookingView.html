@@ -1,0 +1,103 @@
+﻿<div ng-controller="bkctrl" style="background-image: url(/app/Views/a.gif);color:white; ">
+
+    <h1 id="bkHeader" style="text-align:center;color:white;">
+        Book Now
+
+
+    </h1>
+    
+
+
+    <div id="bkFrm">
+        <div class="col-md-5"></div>
+        <div class="col-md-4">
+
+            <label style="width:100px;"> Event Date</label>
+
+            <input id="evLeft" placeholder=" event date" style="width: 150px; height: 40px; border-radius: 25px; text-align:center;color:black;"
+                   ng-model="EDate" type="date" name="name" />
+
+            <br />
+            <label class="label-warning">{{msg}}</label>
+            <br />
+            <label style="width:100px;">
+                Event Type
+            </label>  <select style=" width: 150px; height: 40px; border-radius: 25px; color: black;" ng-model="EventId">
+
+                <option ng-repeat="m in Events" ng-model="EventId" value="{{m.EventId}}">{{m.EventName}}</option>
+            </select>
+            <br />
+            
+            <br />
+            <label style="width:100px;">
+                Guest No
+            </label>   <input style="width: 150px; height: 40px; border-radius: 25px; color: black; " type="number" name="name" ng-model="Guest" />
+
+            <br />
+            <label class="label-warning">{{msg1}}</label>
+            <br />
+            <button class="btn btn-default" ng-click="CtgShow()">OK</button>
+
+        </div>
+        <div style="color:white;" class="col-md-3">
+            <button id="btnShow" style="color:white;" class="btn label label-success" ng-click="dtShow()">See Dates Already Booked </button><button id="btnHide" style="display: none; color: white;" class="btn label label-success" ng-click="dtHide()">Hide</button>
+            <div id="evDate" style="display:none;">
+
+                <table >
+
+                    <tr ng-repeat="m in BookingDetails |uniqueDate:'EventDate'">
+
+                        <td style="color:white;font-size:18px;" class="label label-success" ng-model="evRight">{{m.EventDate}}</td>
+
+                    </tr>
+                </table>
+            </div>
+
+        </div>
+    </div>
+
+    <div id="ctgLink" style="display:none;">
+        <h1 id="bkSemiHeader" style="text-align:center;" class="label label-success">Select this Category to View Events Items :- </h1>
+        <a class="btn btn-primary " ng-repeat="m in Catagories|unique:'CatagoryName'"
+           href="#/bookingView" ng-click="selectCategory(m)"
+           ng-class="activeCategory(m)">
+            {{m.CatagoryName}}
+        </a>
+    </div>
+
+
+
+    <div id="bkview" style="display:none;">
+
+        <table>
+            <tr>
+                <td>
+                    <div ng-repeat="p in Products|filter:sa|filter:filterProductFn" style="float:left;padding:5px;">
+                        <div>
+                            <img ng-model="avx" ng-src="http://localhost:7117/Content/img/{{p.PictureFile}}" class="img-rounded " width="315" height="200" />
+                        </div>
+                        <table>
+                            <tr>
+                                <td><button class="btn btn-sm btn-primary " ng-click="addtocart(p)">Select</button></td>
+                                <th>
+                                    Name : {{p.ProductName}}<br />
+                                    Price : {{p.ProductCost|currency}}
+                                </th>
+                            </tr>
+                        </table>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+
+
+
+
+
+    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+</div>  
+
+

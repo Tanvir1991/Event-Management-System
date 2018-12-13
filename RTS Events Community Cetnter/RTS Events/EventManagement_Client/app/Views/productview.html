@@ -1,0 +1,121 @@
+﻿
+<h2 style="text-align:center;">Product Information</h2>
+<div ng-controller="prctrl">
+    <button class="btn btn-sm btn-primary img-w-radius" ng-click="showPrdForm()"><span class="glyphicon glyphicon-log-in"></span> &nbsp;&nbsp;&nbsp; Create New</button>
+   
+    
+    <div style="float:right;">
+        <ul class="pagination">
+
+           
+            <li ng-class="prePageDisable()">
+                <a class="btn btn-success img-rounded" href="" ng-click="prePage()">
+                    <<
+                </a>
+            </li>
+           
+          
+            <li ng-repeat="p in rangeSize()" ng-class="{active: p == currentPage }" ng-click="setPage(p)">
+                <a class="btn btn-success img-w-radius" href="">
+                    {{p+1}}
+                </a>
+            </li>
+            
+
+            <li ng-class="nextPageDisable()">
+                <a class="btn btn-success img-rounded" href="" ng-click="nextPage()">
+                    >>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+
+    <div class="modal fade" tabindex="-1" role="dialog" id="PrdModal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header modal-header-primary">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title"><span class="glyphicon glyphicon-log-in"></span> Product Information</h4>
+                </div>
+                <div class="modal-body">
+
+                    <table>
+
+                        <tr>
+                            <th>Product ID</th>
+                            <td><input type="text" ng-model="model.item.ProductId" disabled class="form-control" /></td>
+                            <td rowspan="5"><img id="selectedPrictrue" ng-show="model.item.Picture" width="165" class="img-thumbnail" /></td>
+                        </tr>
+                        <tr>
+                            <th>Catagory</th>
+                            <td>
+                                <div>
+                                    <select class="form-control" ng-model="model.item.CatagoryId">
+                                        <option ng-repeat="m in Catagories" value="{{m.CatagoryId}}">{{m.CatagoryName}}</option>
+                                    </select>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Product Name</th>
+                            <td><input type="text" ng-model="model.item.ProductName" class="form-control" /></td>
+                        </tr>
+                        <tr>
+                            <th>Picture</th>
+                            <td><button type="button" style="width:280px;" class="form-control" ng-click="pictureClick()">Select Image</button></td>
+                        </tr>
+                        <tr>
+                            <th>Product Cost</th>
+                            <td><input type="number" ng-model="model.item.ProductCost" class="form-control" /></td>
+                        </tr>
+
+                        <!--<tr>
+                            <td></td>
+                            <td>
+                                <input type="button" ng-click="save()" value="Save" class="btn btn-default" />
+                            </td>
+                        </tr>-->
+                    </table>
+
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" class="btn btn-sm btn-primary img-w-radius" form="PrdForm" ng-disabled="PrdForm.$invalid" ng-click="save()">Save</button>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div>
+   
+
+    <table class="table">
+        <tr>
+            <th>Product Id</th>
+            <th>Photo</th>
+            <th>Category</th>
+            <th>ProductName</th>
+
+            <th>ProductCost</th>
+
+
+            <th></th>
+        </tr>
+        <tr ng-repeat="m in Products | filter:filterProduct| filter:sa |pagination:currentPage*pageSize|limitTo:pageSize">
+            <td>{{m.ProductId}}</td>
+            <td><img ng-src="http://localhost:7117/Content/img/{{m.PictureFile}}" class="img-rounded img-thumbnail" width="60" /></td>
+            <td>{{m.Catagory}}</td>
+            <td>{{m.ProductName}}</td>
+            <td>{{m.ProductCost|currency}}</td>
+
+            <td>
+                <button class="btn btn-link" ng-click="edit(m.ProductId)"><span class="glyphicon glyphicon-pencil"></span></button>
+                <button class="btn btn-link" ng-click="delete(m.ProductId)"><span class="glyphicon glyphicon-trash"></span></button>
+            </td>
+
+        </tr>
+    </table>
+
+    
+
+
+</div>

@@ -1,0 +1,85 @@
+﻿<div  ng-controller="prctrl">
+    
+        <h1 style="text-align:center;">Book Now</h1>
+    <table >
+        <!--<tr><th  colspan="3">Please fill these information first</th><th rowspan="2">Then select these catagory to choose your favourite items</th></tr>-->
+        <tr >
+            <th style="text-align:center;"> Event Date</th><th style="text-align:center;">Event Type</th><th style="text-align:center;">Guest No</th>
+        </tr>
+        <tr>
+            <td style="padding: 5px;"><input placeholder="Event Date" style="width: 150px; height: 40px; border-radius: 25px; " 
+                                            ng-model="EDate" type="date" name="name"  /></td>
+            <td style="padding: 5px;">
+                <select  style=" width:150px;height:40px;border-radius:25px;" ng-controller="evctrl" ng-model="EventId">
+                   
+                    <option  ng-repeat="m in Events" ng-model="EventId" value="{{m.EventId}}">{{m.EventName}}</option>
+                </select>
+            </td>
+            <td style="padding:5px;">
+                <input  style="width: 150px; height: 40px; border-radius: 25px; " type="number" name="name" ng-model="Guest" />
+            </td>
+          
+            
+            <td >
+
+         <a class="btn btn-success" ng-repeat="m in Catagories|unique:'CatagoryName'"
+            href="#/bookingView" ng-click="selectCategory(m)"
+            ng-class="activeCategory(m)">
+             {{m.CatagoryName}}
+         </a>
+            </td>
+        </tr>
+    </table>
+          <br />
+
+    <!--<div class="col-md-9">
+        <div class="panel panel-default">
+            <div ng-repeat="p in Products|filter:filterProductFn" class="panel panel-body">
+                <h4>
+                    <strong>
+                        {{p.ProductName}}
+                    </strong>
+                    <span>
+                        <img ng-src="http://dvents.azurewebsites.net/Content/img/{{p.PictureFile}}" class="img-rounded " width="250" height="150" />
+                    </span>
+                    <span class="pull-right label label-success">
+                        {{p.ProductCost}}
+                    </span>
+                </h4>
+
+                <button type="button" class="btn btn-success pull-right" ng-click="addtocart(p)">
+                    <span class="glyphicon glyphicon-shopping-cart "></span>Add to Cart
+                </button>
+            </div>
+        </div>
+
+    </div>-->
+
+    <div>
+
+        <table>
+            <tr>
+                <td>
+                    <div ng-repeat="p in Products|filter:filterProductFn" style="float:left;padding:5px;">
+                        <div>
+                            <img ng-model="avx" ng-src="http://dvents.azurewebsites.net/Content/img/{{p.PictureFile}}" class="img-rounded " width="315" height="200" />
+                        </div>
+                        <table>
+                            <tr>
+                                <td><button class="btn btn-success" ng-click="addtocart(p)">Select</button></td>
+                                <th>
+                                    Name : {{p.ProductName}}<br />
+                                    Price : {{p.ProductCost|currency}}
+                                </th>
+                            </tr>
+                        </table>                       
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div> 
+</div>  
+
+
+
+

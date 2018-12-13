@@ -1,0 +1,85 @@
+﻿<div style="padding:100px;" ng-controller="cartcalculation">
+
+    <h2>Your Booking Details</h2>
+    <div>
+
+        <div class="alert alert-warning" ng-show="cartData.length==0">
+            There are no products in you bookings
+            <a href="#/bookingView" class="alert-link">Click Here to Return to the Booking Page</a>
+        </div>
+        <div ng-hide="cartData.length==0">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <!--<th>Customer Email</th>
+                        <th>Booking Id</th>
+                        <th>Booking Date</th>
+                        <th>Event Date</th>
+                        <th>Event Type</th>-->
+                        <th>Number Of Guest</th>
+                        <th>Catagory</th>
+                        <th>Product</th>
+                        <th>Quentity</th>
+                        <th class="text-right">Product Cost</th>
+                        <th class="text-right">SubTotal</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="item in cartData">
+                        <!--<td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>-->
+                        <td>{{item.Guest}}</td>
+                        <td>{{item.Category}}</td>
+                        <td class="text-center">{{item.ProductName}}</td> 
+                     
+                        <td class="text-left">{{item.qty}}</td> 
+                        <td class="text-right">{{item.ProductCost |currency}}</td> 
+                        <!--<td class="text-right">{{item.ProductCost*item.qty|currency}}</td>--> 
+                        <td class="text-right">
+                            <div ng-if="item.Category==='Food'">
+                                {{item.ProductCost*item.qty*item.Guest|currency}}
+                            </div>
+                            <div ng-if="item.Category !='Food'">
+                                {{item.ProductCost*item.qty*1}}
+                            </div>
+                          
+                        </td>
+                        <td>
+                            <button ng-click="remove(item.ProductId)" class="btn btn-sm btn-warning">Remove</button>
+                        </td>
+
+                    </tr>
+                </tbody>
+                <tfoot>
+
+                    <tr>
+                        <th colspan="5" class="text-right">Total</th>
+                        <th class="text-right">{{FoodCost()|currency}}</th>
+                      
+                    </tr>
+
+                </tfoot>
+
+            </table>
+
+            <div class="text-center">
+                <a class="btn btn-primary" href="#/bookingView"> Continue Booking </a>
+               
+                <a class="btn btn-primary" href="#/placeOrder">Booking</a>
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+    <!--This is the Checkout View
+    <a href="#/bookingView" class="btn btn-primary">back</a>-->
+
+</div>
+
+

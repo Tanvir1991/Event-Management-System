@@ -1,0 +1,2111 @@
+E:\fff\EventManagement_Api\EventManagement_Api\bin\EventManagement_Api.dll.config
+E:\fff\EventManagement_Api\EventManagement_Api\bin\EventManagement_Api.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\EventManagement_Api.pdb
+E:\fff\EventManagement_Api\EventManagement_Api\bin\x86\sqlcese40.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\x86\sqlceqp40.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\x86\sqlceme40.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\x86\sqlceer40EN.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\x86\sqlcecompact40.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\x86\sqlceca40.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+E:\fff\EventManagement_Api\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\amd64\sqlcese40.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\amd64\sqlceqp40.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\amd64\sqlceme40.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\amd64\sqlceer40EN.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\amd64\sqlcecompact40.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\amd64\sqlceca40.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+E:\fff\EventManagement_Api\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\fff\EventManagement_Api\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Antlr3.Runtime.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\EntityFramework.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\EntityFramework.SqlServer.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\EntityFramework.SqlServerCompact.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Data.Edm.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Data.OData.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Owin.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Owin.Security.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Owin.Security.Google.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Web.Infrastructure.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Newtonsoft.Json.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Owin.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Data.SqlServerCe.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Net.Http.Formatting.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Spatial.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Cors.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Helpers.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Http.Cors.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Http.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Http.OData.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Http.Owin.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Http.WebHost.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Mvc.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Optimization.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Razor.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.WebPages.Deployment.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.WebPages.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.WebPages.Razor.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\WebGrease.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\EntityFramework.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\EntityFramework.SqlServer.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\EntityFramework.SqlServerCompact.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Data.Edm.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Data.OData.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Net.Http.Formatting.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Spatial.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Http.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Http.Cors.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Http.OData.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Newtonsoft.Json.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Helpers.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Http.WebHost.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Mvc.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Optimization.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Razor.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.WebPages.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.WebPages.Deployment.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.WebPages.Razor.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Antlr3.Runtime.pdb
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Owin.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Owin.Security.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Owin.Security.Google.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\System.Web.Http.Owin.xml
+E:\fff\EventManagement_Api\EventManagement_Api\bin\de\Microsoft.Data.Edm.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\es\Microsoft.Data.Edm.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\it\Microsoft.Data.Edm.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\de\Microsoft.Data.OData.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\es\Microsoft.Data.OData.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\fr\Microsoft.Data.OData.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\it\Microsoft.Data.OData.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\ja\Microsoft.Data.OData.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\ko\Microsoft.Data.OData.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\ru\Microsoft.Data.OData.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\de\System.Spatial.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\es\System.Spatial.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\fr\System.Spatial.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\it\System.Spatial.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\ja\System.Spatial.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\ko\System.Spatial.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\ru\System.Spatial.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\zh-Hans\System.Spatial.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\bin\zh-Hant\System.Spatial.resources.dll
+E:\fff\EventManagement_Api\EventManagement_Api\obj\Debug\EventManagement_Api.dll
+E:\fff\EventManagement_Api\EventManagement_Api\obj\Debug\EventManagement_Api.pdb
+E:\fff\SabujNew\EventManagement_Api\bin\EventManagement_Api.dll.config
+E:\fff\SabujNew\EventManagement_Api\bin\EventManagement_Api.dll
+E:\fff\SabujNew\EventManagement_Api\bin\EventManagement_Api.pdb
+E:\fff\SabujNew\EventManagement_Api\bin\x86\sqlcese40.dll
+E:\fff\SabujNew\EventManagement_Api\bin\x86\sqlceqp40.dll
+E:\fff\SabujNew\EventManagement_Api\bin\x86\sqlceme40.dll
+E:\fff\SabujNew\EventManagement_Api\bin\x86\sqlceer40EN.dll
+E:\fff\SabujNew\EventManagement_Api\bin\x86\sqlcecompact40.dll
+E:\fff\SabujNew\EventManagement_Api\bin\x86\sqlceca40.dll
+E:\fff\SabujNew\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+E:\fff\SabujNew\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+E:\fff\SabujNew\EventManagement_Api\bin\amd64\sqlcese40.dll
+E:\fff\SabujNew\EventManagement_Api\bin\amd64\sqlceqp40.dll
+E:\fff\SabujNew\EventManagement_Api\bin\amd64\sqlceme40.dll
+E:\fff\SabujNew\EventManagement_Api\bin\amd64\sqlceer40EN.dll
+E:\fff\SabujNew\EventManagement_Api\bin\amd64\sqlcecompact40.dll
+E:\fff\SabujNew\EventManagement_Api\bin\amd64\sqlceca40.dll
+E:\fff\SabujNew\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+E:\fff\SabujNew\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+E:\fff\SabujNew\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\fff\SabujNew\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\fff\SabujNew\EventManagement_Api\bin\Antlr3.Runtime.dll
+E:\fff\SabujNew\EventManagement_Api\bin\EntityFramework.dll
+E:\fff\SabujNew\EventManagement_Api\bin\EntityFramework.SqlServer.dll
+E:\fff\SabujNew\EventManagement_Api\bin\EntityFramework.SqlServerCompact.dll
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.dll
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Data.Edm.dll
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Data.OData.dll
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Owin.dll
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.dll
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Owin.Security.dll
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.dll
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Owin.Security.Google.dll
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.dll
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.dll
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Web.Infrastructure.dll
+E:\fff\SabujNew\EventManagement_Api\bin\Newtonsoft.Json.dll
+E:\fff\SabujNew\EventManagement_Api\bin\Owin.dll
+E:\fff\SabujNew\EventManagement_Api\bin\System.Data.SqlServerCe.dll
+E:\fff\SabujNew\EventManagement_Api\bin\System.Net.Http.Formatting.dll
+E:\fff\SabujNew\EventManagement_Api\bin\System.Spatial.dll
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Cors.dll
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Helpers.dll
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Http.Cors.dll
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Http.dll
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Http.OData.dll
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Http.Owin.dll
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Http.WebHost.dll
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Mvc.dll
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Optimization.dll
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Razor.dll
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.WebPages.Deployment.dll
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.WebPages.dll
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.WebPages.Razor.dll
+E:\fff\SabujNew\EventManagement_Api\bin\WebGrease.dll
+E:\fff\SabujNew\EventManagement_Api\bin\EntityFramework.xml
+E:\fff\SabujNew\EventManagement_Api\bin\EntityFramework.SqlServer.xml
+E:\fff\SabujNew\EventManagement_Api\bin\EntityFramework.SqlServerCompact.xml
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Data.Edm.xml
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Data.OData.xml
+E:\fff\SabujNew\EventManagement_Api\bin\System.Net.Http.Formatting.xml
+E:\fff\SabujNew\EventManagement_Api\bin\System.Spatial.xml
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Http.xml
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Http.Cors.xml
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Http.OData.xml
+E:\fff\SabujNew\EventManagement_Api\bin\Newtonsoft.Json.xml
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Helpers.xml
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Http.WebHost.xml
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Mvc.xml
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Optimization.xml
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Razor.xml
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.WebPages.xml
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.WebPages.Deployment.xml
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.WebPages.Razor.xml
+E:\fff\SabujNew\EventManagement_Api\bin\Antlr3.Runtime.pdb
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.xml
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Owin.xml
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Owin.Security.xml
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.xml
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.xml
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.xml
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Owin.Security.Google.xml
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.xml
+E:\fff\SabujNew\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\fff\SabujNew\EventManagement_Api\bin\System.Web.Http.Owin.xml
+E:\fff\SabujNew\EventManagement_Api\bin\de\Microsoft.Data.Edm.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\es\Microsoft.Data.Edm.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\it\Microsoft.Data.Edm.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\de\Microsoft.Data.OData.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\es\Microsoft.Data.OData.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\fr\Microsoft.Data.OData.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\it\Microsoft.Data.OData.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\ja\Microsoft.Data.OData.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\ko\Microsoft.Data.OData.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\ru\Microsoft.Data.OData.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\de\System.Spatial.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\es\System.Spatial.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\fr\System.Spatial.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\it\System.Spatial.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\ja\System.Spatial.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\ko\System.Spatial.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\ru\System.Spatial.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\zh-Hans\System.Spatial.resources.dll
+E:\fff\SabujNew\EventManagement_Api\bin\zh-Hant\System.Spatial.resources.dll
+E:\fff\SabujNew\EventManagement_Api\obj\Debug\EventManagement_Api.dll
+E:\fff\SabujNew\EventManagement_Api\obj\Debug\EventManagement_Api.pdb
+E:\fff\SabujNew\EventManagement_Api\obj\Debug\EventManagement_Api.csprojResolveAssemblyReference.cache
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\EventManagement_Api.dll.config
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\EventManagement_Api.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\EventManagement_Api.pdb
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\x86\sqlcese40.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\x86\sqlceqp40.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\x86\sqlceme40.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\x86\sqlceer40EN.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\x86\sqlcecompact40.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\x86\sqlceca40.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\amd64\sqlcese40.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\amd64\sqlceqp40.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\amd64\sqlceme40.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\amd64\sqlceer40EN.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\amd64\sqlcecompact40.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\amd64\sqlceca40.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Antlr3.Runtime.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\EntityFramework.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\EntityFramework.SqlServerCompact.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Data.Edm.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Data.OData.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Owin.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Owin.Security.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Newtonsoft.Json.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Owin.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Data.SqlServerCe.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Spatial.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Cors.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Helpers.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Http.Cors.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Http.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Http.OData.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Http.Owin.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Mvc.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Optimization.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Razor.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.WebPages.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\WebGrease.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\EntityFramework.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\EntityFramework.SqlServer.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\EntityFramework.SqlServerCompact.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Data.Edm.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Data.OData.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Spatial.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Http.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Http.Cors.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Http.OData.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Newtonsoft.Json.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Helpers.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Mvc.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Optimization.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Razor.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.WebPages.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Antlr3.Runtime.pdb
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Owin.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Owin.Security.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\System.Web.Http.Owin.xml
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\de\System.Spatial.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\es\System.Spatial.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\fr\System.Spatial.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\it\System.Spatial.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\ja\System.Spatial.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\ko\System.Spatial.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\ru\System.Spatial.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\obj\Debug\EventManagement_Api.csprojResolveAssemblyReference.cache
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\obj\Debug\EventManagement_Api.dll
+C:\Users\Lab2_2\Desktop\SabujNew1\EventManagement_Api\obj\Debug\EventManagement_Api.pdb
+E:\Home PC\Event 2\EventManagement_Api\bin\EventManagement_Api.dll.config
+E:\Home PC\Event 2\EventManagement_Api\bin\EventManagement_Api.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\EventManagement_Api.pdb
+E:\Home PC\Event 2\EventManagement_Api\bin\x86\sqlcese40.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\x86\sqlceqp40.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\x86\sqlceme40.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\x86\sqlceer40EN.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\x86\sqlcecompact40.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\x86\sqlceca40.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+E:\Home PC\Event 2\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\amd64\sqlcese40.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\amd64\sqlceqp40.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\amd64\sqlceme40.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\amd64\sqlceer40EN.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\amd64\sqlcecompact40.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\amd64\sqlceca40.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+E:\Home PC\Event 2\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Home PC\Event 2\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Home PC\Event 2\EventManagement_Api\bin\Antlr3.Runtime.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\EntityFramework.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\EntityFramework.SqlServer.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\EntityFramework.SqlServerCompact.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Data.Edm.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Data.OData.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Owin.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Google.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Web.Infrastructure.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\Newtonsoft.Json.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\Owin.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Data.SqlServerCe.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Net.Http.Formatting.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Spatial.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Cors.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Helpers.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Http.Cors.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Http.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Http.OData.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Http.Owin.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Http.WebHost.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Mvc.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Optimization.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Razor.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.WebPages.Deployment.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.WebPages.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.WebPages.Razor.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\WebGrease.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\EntityFramework.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\EntityFramework.SqlServer.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\EntityFramework.SqlServerCompact.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Data.Edm.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Data.OData.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Net.Http.Formatting.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Spatial.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Http.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Http.Cors.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Http.OData.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\Newtonsoft.Json.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Helpers.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Http.WebHost.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Mvc.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Optimization.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Razor.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.WebPages.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.WebPages.Deployment.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.WebPages.Razor.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\Antlr3.Runtime.pdb
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Owin.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Google.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\System.Web.Http.Owin.xml
+E:\Home PC\Event 2\EventManagement_Api\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\de\Microsoft.Data.OData.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\es\Microsoft.Data.OData.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\it\Microsoft.Data.OData.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\de\System.Spatial.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\es\System.Spatial.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\fr\System.Spatial.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\it\System.Spatial.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\ja\System.Spatial.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\ko\System.Spatial.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\ru\System.Spatial.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\zh-Hans\System.Spatial.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\bin\zh-Hant\System.Spatial.resources.dll
+E:\Home PC\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.csprojResolveAssemblyReference.cache
+E:\Home PC\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.dll
+E:\Home PC\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.pdb
+E:\Event 2\EventManagement_Api\bin\EventManagement_Api.dll.config
+E:\Event 2\EventManagement_Api\bin\EventManagement_Api.dll
+E:\Event 2\EventManagement_Api\bin\EventManagement_Api.pdb
+E:\Event 2\EventManagement_Api\bin\x86\sqlcese40.dll
+E:\Event 2\EventManagement_Api\bin\x86\sqlceqp40.dll
+E:\Event 2\EventManagement_Api\bin\x86\sqlceme40.dll
+E:\Event 2\EventManagement_Api\bin\x86\sqlceer40EN.dll
+E:\Event 2\EventManagement_Api\bin\x86\sqlcecompact40.dll
+E:\Event 2\EventManagement_Api\bin\x86\sqlceca40.dll
+E:\Event 2\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+E:\Event 2\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+E:\Event 2\EventManagement_Api\bin\amd64\sqlcese40.dll
+E:\Event 2\EventManagement_Api\bin\amd64\sqlceqp40.dll
+E:\Event 2\EventManagement_Api\bin\amd64\sqlceme40.dll
+E:\Event 2\EventManagement_Api\bin\amd64\sqlceer40EN.dll
+E:\Event 2\EventManagement_Api\bin\amd64\sqlcecompact40.dll
+E:\Event 2\EventManagement_Api\bin\amd64\sqlceca40.dll
+E:\Event 2\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+E:\Event 2\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+E:\Event 2\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Event 2\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Event 2\EventManagement_Api\bin\Antlr3.Runtime.dll
+E:\Event 2\EventManagement_Api\bin\EntityFramework.dll
+E:\Event 2\EventManagement_Api\bin\EntityFramework.SqlServer.dll
+E:\Event 2\EventManagement_Api\bin\EntityFramework.SqlServerCompact.dll
+E:\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Event 2\EventManagement_Api\bin\Microsoft.Data.Edm.dll
+E:\Event 2\EventManagement_Api\bin\Microsoft.Data.OData.dll
+E:\Event 2\EventManagement_Api\bin\Microsoft.Owin.dll
+E:\Event 2\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.dll
+E:\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Google.dll
+E:\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Event 2\EventManagement_Api\bin\Microsoft.Web.Infrastructure.dll
+E:\Event 2\EventManagement_Api\bin\Newtonsoft.Json.dll
+E:\Event 2\EventManagement_Api\bin\Owin.dll
+E:\Event 2\EventManagement_Api\bin\System.Data.SqlServerCe.dll
+E:\Event 2\EventManagement_Api\bin\System.Net.Http.Formatting.dll
+E:\Event 2\EventManagement_Api\bin\System.Spatial.dll
+E:\Event 2\EventManagement_Api\bin\System.Web.Cors.dll
+E:\Event 2\EventManagement_Api\bin\System.Web.Helpers.dll
+E:\Event 2\EventManagement_Api\bin\System.Web.Http.Cors.dll
+E:\Event 2\EventManagement_Api\bin\System.Web.Http.dll
+E:\Event 2\EventManagement_Api\bin\System.Web.Http.OData.dll
+E:\Event 2\EventManagement_Api\bin\System.Web.Http.Owin.dll
+E:\Event 2\EventManagement_Api\bin\System.Web.Http.WebHost.dll
+E:\Event 2\EventManagement_Api\bin\System.Web.Mvc.dll
+E:\Event 2\EventManagement_Api\bin\System.Web.Optimization.dll
+E:\Event 2\EventManagement_Api\bin\System.Web.Razor.dll
+E:\Event 2\EventManagement_Api\bin\System.Web.WebPages.Deployment.dll
+E:\Event 2\EventManagement_Api\bin\System.Web.WebPages.dll
+E:\Event 2\EventManagement_Api\bin\System.Web.WebPages.Razor.dll
+E:\Event 2\EventManagement_Api\bin\WebGrease.dll
+E:\Event 2\EventManagement_Api\bin\EntityFramework.xml
+E:\Event 2\EventManagement_Api\bin\EntityFramework.SqlServer.xml
+E:\Event 2\EventManagement_Api\bin\EntityFramework.SqlServerCompact.xml
+E:\Event 2\EventManagement_Api\bin\Microsoft.Data.Edm.xml
+E:\Event 2\EventManagement_Api\bin\Microsoft.Data.OData.xml
+E:\Event 2\EventManagement_Api\bin\System.Net.Http.Formatting.xml
+E:\Event 2\EventManagement_Api\bin\System.Spatial.xml
+E:\Event 2\EventManagement_Api\bin\System.Web.Http.xml
+E:\Event 2\EventManagement_Api\bin\System.Web.Http.Cors.xml
+E:\Event 2\EventManagement_Api\bin\System.Web.Http.OData.xml
+E:\Event 2\EventManagement_Api\bin\Newtonsoft.Json.xml
+E:\Event 2\EventManagement_Api\bin\System.Web.Helpers.xml
+E:\Event 2\EventManagement_Api\bin\System.Web.Http.WebHost.xml
+E:\Event 2\EventManagement_Api\bin\System.Web.Mvc.xml
+E:\Event 2\EventManagement_Api\bin\System.Web.Optimization.xml
+E:\Event 2\EventManagement_Api\bin\System.Web.Razor.xml
+E:\Event 2\EventManagement_Api\bin\System.Web.WebPages.xml
+E:\Event 2\EventManagement_Api\bin\System.Web.WebPages.Deployment.xml
+E:\Event 2\EventManagement_Api\bin\System.Web.WebPages.Razor.xml
+E:\Event 2\EventManagement_Api\bin\Antlr3.Runtime.pdb
+E:\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Event 2\EventManagement_Api\bin\Microsoft.Owin.xml
+E:\Event 2\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.xml
+E:\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Google.xml
+E:\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Event 2\EventManagement_Api\bin\System.Web.Http.Owin.xml
+E:\Event 2\EventManagement_Api\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Event 2\EventManagement_Api\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Event 2\EventManagement_Api\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Event 2\EventManagement_Api\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Event 2\EventManagement_Api\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Event 2\EventManagement_Api\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Event 2\EventManagement_Api\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Event 2\EventManagement_Api\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Event 2\EventManagement_Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Event 2\EventManagement_Api\bin\de\Microsoft.Data.OData.resources.dll
+E:\Event 2\EventManagement_Api\bin\es\Microsoft.Data.OData.resources.dll
+E:\Event 2\EventManagement_Api\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Event 2\EventManagement_Api\bin\it\Microsoft.Data.OData.resources.dll
+E:\Event 2\EventManagement_Api\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Event 2\EventManagement_Api\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Event 2\EventManagement_Api\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Event 2\EventManagement_Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Event 2\EventManagement_Api\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Event 2\EventManagement_Api\bin\de\System.Spatial.resources.dll
+E:\Event 2\EventManagement_Api\bin\es\System.Spatial.resources.dll
+E:\Event 2\EventManagement_Api\bin\fr\System.Spatial.resources.dll
+E:\Event 2\EventManagement_Api\bin\it\System.Spatial.resources.dll
+E:\Event 2\EventManagement_Api\bin\ja\System.Spatial.resources.dll
+E:\Event 2\EventManagement_Api\bin\ko\System.Spatial.resources.dll
+E:\Event 2\EventManagement_Api\bin\ru\System.Spatial.resources.dll
+E:\Event 2\EventManagement_Api\bin\zh-Hans\System.Spatial.resources.dll
+E:\Event 2\EventManagement_Api\bin\zh-Hant\System.Spatial.resources.dll
+E:\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.dll
+E:\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.pdb
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\EventManagement_Api.dll.config
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\EventManagement_Api.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\EventManagement_Api.pdb
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\x86\sqlcese40.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\x86\sqlceqp40.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\x86\sqlceme40.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\x86\sqlceer40EN.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\x86\sqlcecompact40.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\x86\sqlceca40.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\amd64\sqlcese40.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\amd64\sqlceqp40.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\amd64\sqlceme40.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\amd64\sqlceer40EN.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\amd64\sqlcecompact40.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\amd64\sqlceca40.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Antlr3.Runtime.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\EntityFramework.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\EntityFramework.SqlServer.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\EntityFramework.SqlServerCompact.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Data.Edm.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Data.OData.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Google.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Web.Infrastructure.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Newtonsoft.Json.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Owin.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Data.SqlServerCe.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Net.Http.Formatting.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Spatial.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Cors.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Helpers.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.Cors.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.OData.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.Owin.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.WebHost.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Mvc.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Optimization.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Razor.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.WebPages.Deployment.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.WebPages.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.WebPages.Razor.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\WebGrease.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\EntityFramework.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\EntityFramework.SqlServer.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\EntityFramework.SqlServerCompact.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Data.Edm.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Data.OData.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Net.Http.Formatting.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Spatial.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.Cors.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.OData.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Newtonsoft.Json.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Helpers.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.WebHost.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Mvc.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Optimization.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Razor.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.WebPages.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.WebPages.Deployment.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.WebPages.Razor.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Antlr3.Runtime.pdb
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Google.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.Owin.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\de\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\es\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\fr\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\it\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\ja\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\ko\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\ru\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\de\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\es\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\fr\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\it\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\ja\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\ko\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\ru\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\de\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\es\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\fr\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\it\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\ja\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\ko\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\ru\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\zh-Hans\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\bin\zh-Hant\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.csprojResolveAssemblyReference.cache
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.pdb
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\EventManagement_Api.dll.config
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\EventManagement_Api.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\EventManagement_Api.pdb
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\x86\sqlcese40.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\x86\sqlceqp40.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\x86\sqlceme40.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\x86\sqlceer40EN.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\x86\sqlcecompact40.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\x86\sqlceca40.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\amd64\sqlcese40.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\amd64\sqlceqp40.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\amd64\sqlceme40.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\amd64\sqlceer40EN.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\amd64\sqlcecompact40.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\amd64\sqlceca40.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Antlr3.Runtime.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\EntityFramework.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\EntityFramework.SqlServer.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\EntityFramework.SqlServerCompact.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Data.Edm.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Data.OData.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Google.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Web.Infrastructure.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Newtonsoft.Json.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Owin.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Data.SqlServerCe.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Net.Http.Formatting.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Spatial.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Cors.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Helpers.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.Cors.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.OData.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.Owin.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.WebHost.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Mvc.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Optimization.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Razor.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.WebPages.Deployment.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.WebPages.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.WebPages.Razor.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\WebGrease.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\EntityFramework.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\EntityFramework.SqlServer.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\EntityFramework.SqlServerCompact.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Data.Edm.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Data.OData.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Net.Http.Formatting.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Spatial.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.Cors.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.OData.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Newtonsoft.Json.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Helpers.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.WebHost.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Mvc.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Optimization.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Razor.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.WebPages.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.WebPages.Deployment.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.WebPages.Razor.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Antlr3.Runtime.pdb
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Google.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\System.Web.Http.Owin.xml
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\de\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\es\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\fr\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\it\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\ja\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\ko\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\ru\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\de\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\es\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\fr\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\it\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\ja\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\ko\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\ru\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\de\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\es\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\fr\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\it\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\ja\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\ko\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\ru\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\zh-Hans\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\bin\zh-Hant\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.csprojResolveAssemblyReference.cache
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.InitialCreate.resources
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.ddd.resources
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.csproj.GenerateResource.Cache
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.dll
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.pdb
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dbdate.resources
+I:\R_33_final\Razu\Develoment_version\Event 2\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dbtype.resources
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\EventManagement_Api.dll.config
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\EventManagement_Api.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\EventManagement_Api.pdb
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\x86\sqlcese40.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\x86\sqlceqp40.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\x86\sqlceme40.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\x86\sqlceer40EN.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\x86\sqlcecompact40.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\x86\sqlceca40.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\amd64\sqlcese40.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\amd64\sqlceqp40.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\amd64\sqlceme40.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\amd64\sqlceer40EN.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\amd64\sqlcecompact40.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\amd64\sqlceca40.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Antlr3.Runtime.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\EntityFramework.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\EntityFramework.SqlServer.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\EntityFramework.SqlServerCompact.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Data.Edm.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Data.OData.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Owin.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Google.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Web.Infrastructure.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Newtonsoft.Json.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Owin.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Data.SqlServerCe.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Net.Http.Formatting.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Spatial.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Cors.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Helpers.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Http.Cors.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Http.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Http.OData.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Http.Owin.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Http.WebHost.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Mvc.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Optimization.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Razor.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.WebPages.Deployment.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.WebPages.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.WebPages.Razor.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\WebGrease.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\EntityFramework.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\EntityFramework.SqlServer.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\EntityFramework.SqlServerCompact.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Data.Edm.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Data.OData.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Net.Http.Formatting.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Spatial.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Http.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Http.Cors.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Http.OData.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Newtonsoft.Json.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Helpers.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Http.WebHost.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Mvc.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Optimization.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Razor.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.WebPages.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.WebPages.Deployment.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.WebPages.Razor.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Antlr3.Runtime.pdb
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Owin.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Google.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\System.Web.Http.Owin.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\de\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\es\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\fr\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\it\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\ja\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\ko\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\ru\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\de\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\es\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\fr\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\it\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\ja\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\ko\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\ru\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\de\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\es\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\fr\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\it\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\ja\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\ko\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\ru\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\zh-Hans\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\bin\zh-Hant\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.InitialCreate.resources
+I:\R_33_final\Razu\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.ddd.resources
+I:\R_33_final\Razu\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dbdate.resources
+I:\R_33_final\Razu\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dbtype.resources
+I:\R_33_final\Razu\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.csproj.GenerateResource.Cache
+I:\R_33_final\Razu\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.pdb
+I:\R_33_final\Razu\Event 2\EventManagement_Api\obj\Debug\EventManagement_Api.csprojResolveAssemblyReference.cache
+E:\Event 2-Mam\EventManagement_Api\bin\EventManagement_Api.dll.config
+E:\Event 2-Mam\EventManagement_Api\bin\EventManagement_Api.dll
+E:\Event 2-Mam\EventManagement_Api\bin\EventManagement_Api.pdb
+E:\Event 2-Mam\EventManagement_Api\bin\x86\sqlcese40.dll
+E:\Event 2-Mam\EventManagement_Api\bin\x86\sqlceqp40.dll
+E:\Event 2-Mam\EventManagement_Api\bin\x86\sqlceme40.dll
+E:\Event 2-Mam\EventManagement_Api\bin\x86\sqlceer40EN.dll
+E:\Event 2-Mam\EventManagement_Api\bin\x86\sqlcecompact40.dll
+E:\Event 2-Mam\EventManagement_Api\bin\x86\sqlceca40.dll
+E:\Event 2-Mam\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+E:\Event 2-Mam\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+E:\Event 2-Mam\EventManagement_Api\bin\amd64\sqlcese40.dll
+E:\Event 2-Mam\EventManagement_Api\bin\amd64\sqlceqp40.dll
+E:\Event 2-Mam\EventManagement_Api\bin\amd64\sqlceme40.dll
+E:\Event 2-Mam\EventManagement_Api\bin\amd64\sqlceer40EN.dll
+E:\Event 2-Mam\EventManagement_Api\bin\amd64\sqlcecompact40.dll
+E:\Event 2-Mam\EventManagement_Api\bin\amd64\sqlceca40.dll
+E:\Event 2-Mam\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+E:\Event 2-Mam\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+E:\Event 2-Mam\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Event 2-Mam\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Event 2-Mam\EventManagement_Api\bin\Antlr3.Runtime.dll
+E:\Event 2-Mam\EventManagement_Api\bin\EntityFramework.dll
+E:\Event 2-Mam\EventManagement_Api\bin\EntityFramework.SqlServer.dll
+E:\Event 2-Mam\EventManagement_Api\bin\EntityFramework.SqlServerCompact.dll
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Data.Edm.dll
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Data.OData.dll
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.dll
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.dll
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.Google.dll
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Web.Infrastructure.dll
+E:\Event 2-Mam\EventManagement_Api\bin\Newtonsoft.Json.dll
+E:\Event 2-Mam\EventManagement_Api\bin\Owin.dll
+E:\Event 2-Mam\EventManagement_Api\bin\System.Data.SqlServerCe.dll
+E:\Event 2-Mam\EventManagement_Api\bin\System.Net.Http.Formatting.dll
+E:\Event 2-Mam\EventManagement_Api\bin\System.Spatial.dll
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Cors.dll
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Helpers.dll
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.Cors.dll
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.dll
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.OData.dll
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.Owin.dll
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.WebHost.dll
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Mvc.dll
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Optimization.dll
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Razor.dll
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.WebPages.Deployment.dll
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.WebPages.dll
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.WebPages.Razor.dll
+E:\Event 2-Mam\EventManagement_Api\bin\WebGrease.dll
+E:\Event 2-Mam\EventManagement_Api\bin\EntityFramework.xml
+E:\Event 2-Mam\EventManagement_Api\bin\EntityFramework.SqlServer.xml
+E:\Event 2-Mam\EventManagement_Api\bin\EntityFramework.SqlServerCompact.xml
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Data.Edm.xml
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Data.OData.xml
+E:\Event 2-Mam\EventManagement_Api\bin\System.Net.Http.Formatting.xml
+E:\Event 2-Mam\EventManagement_Api\bin\System.Spatial.xml
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.xml
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.Cors.xml
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.OData.xml
+E:\Event 2-Mam\EventManagement_Api\bin\Newtonsoft.Json.xml
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Helpers.xml
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.WebHost.xml
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Mvc.xml
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Optimization.xml
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Razor.xml
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.WebPages.xml
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.WebPages.Deployment.xml
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.WebPages.Razor.xml
+E:\Event 2-Mam\EventManagement_Api\bin\Antlr3.Runtime.pdb
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.xml
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.xml
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.Google.xml
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.Owin.xml
+E:\Event 2-Mam\EventManagement_Api\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\de\Microsoft.Data.OData.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\es\Microsoft.Data.OData.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\it\Microsoft.Data.OData.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\de\System.Spatial.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\es\System.Spatial.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\fr\System.Spatial.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\it\System.Spatial.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\ja\System.Spatial.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\ko\System.Spatial.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\ru\System.Spatial.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\zh-Hans\System.Spatial.resources.dll
+E:\Event 2-Mam\EventManagement_Api\bin\zh-Hant\System.Spatial.resources.dll
+E:\Event 2-Mam\EventManagement_Api\obj\Debug\EventManagement_Api.csprojResolveAssemblyReference.cache
+E:\Event 2-Mam\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dgsa.resources
+E:\Event 2-Mam\EventManagement_Api\obj\Debug\EventManagement_Api.csproj.GenerateResource.Cache
+E:\Event 2-Mam\EventManagement_Api\obj\Debug\EventManagement_Api.dll
+E:\Event 2-Mam\EventManagement_Api\obj\Debug\EventManagement_Api.pdb
+D:\Event 2-Mam\EventManagement_Api\bin\EventManagement_Api.dll.config
+D:\Event 2-Mam\EventManagement_Api\bin\EventManagement_Api.dll
+D:\Event 2-Mam\EventManagement_Api\bin\EventManagement_Api.pdb
+D:\Event 2-Mam\EventManagement_Api\bin\x86\sqlcese40.dll
+D:\Event 2-Mam\EventManagement_Api\bin\x86\sqlceqp40.dll
+D:\Event 2-Mam\EventManagement_Api\bin\x86\sqlceme40.dll
+D:\Event 2-Mam\EventManagement_Api\bin\x86\sqlceer40EN.dll
+D:\Event 2-Mam\EventManagement_Api\bin\x86\sqlcecompact40.dll
+D:\Event 2-Mam\EventManagement_Api\bin\x86\sqlceca40.dll
+D:\Event 2-Mam\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+D:\Event 2-Mam\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+D:\Event 2-Mam\EventManagement_Api\bin\amd64\sqlcese40.dll
+D:\Event 2-Mam\EventManagement_Api\bin\amd64\sqlceqp40.dll
+D:\Event 2-Mam\EventManagement_Api\bin\amd64\sqlceme40.dll
+D:\Event 2-Mam\EventManagement_Api\bin\amd64\sqlceer40EN.dll
+D:\Event 2-Mam\EventManagement_Api\bin\amd64\sqlcecompact40.dll
+D:\Event 2-Mam\EventManagement_Api\bin\amd64\sqlceca40.dll
+D:\Event 2-Mam\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+D:\Event 2-Mam\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+D:\Event 2-Mam\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\Event 2-Mam\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\Event 2-Mam\EventManagement_Api\bin\Antlr3.Runtime.dll
+D:\Event 2-Mam\EventManagement_Api\bin\EntityFramework.dll
+D:\Event 2-Mam\EventManagement_Api\bin\EntityFramework.SqlServer.dll
+D:\Event 2-Mam\EventManagement_Api\bin\EntityFramework.SqlServerCompact.dll
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Data.Edm.dll
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Data.OData.dll
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.dll
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.dll
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.Google.dll
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Event 2-Mam\EventManagement_Api\bin\Newtonsoft.Json.dll
+D:\Event 2-Mam\EventManagement_Api\bin\Owin.dll
+D:\Event 2-Mam\EventManagement_Api\bin\System.Data.SqlServerCe.dll
+D:\Event 2-Mam\EventManagement_Api\bin\System.Net.Http.Formatting.dll
+D:\Event 2-Mam\EventManagement_Api\bin\System.Spatial.dll
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Cors.dll
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Helpers.dll
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.Cors.dll
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.dll
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.OData.dll
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.Owin.dll
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.WebHost.dll
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Mvc.dll
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Optimization.dll
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Razor.dll
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.WebPages.Deployment.dll
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.WebPages.dll
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.WebPages.Razor.dll
+D:\Event 2-Mam\EventManagement_Api\bin\WebGrease.dll
+D:\Event 2-Mam\EventManagement_Api\bin\EntityFramework.xml
+D:\Event 2-Mam\EventManagement_Api\bin\EntityFramework.SqlServer.xml
+D:\Event 2-Mam\EventManagement_Api\bin\EntityFramework.SqlServerCompact.xml
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Data.Edm.xml
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Data.OData.xml
+D:\Event 2-Mam\EventManagement_Api\bin\System.Net.Http.Formatting.xml
+D:\Event 2-Mam\EventManagement_Api\bin\System.Spatial.xml
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.xml
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.Cors.xml
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.OData.xml
+D:\Event 2-Mam\EventManagement_Api\bin\Newtonsoft.Json.xml
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Helpers.xml
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.WebHost.xml
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Mvc.xml
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Optimization.xml
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Razor.xml
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.WebPages.xml
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.WebPages.Deployment.xml
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.WebPages.Razor.xml
+D:\Event 2-Mam\EventManagement_Api\bin\Antlr3.Runtime.pdb
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.xml
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.xml
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.Google.xml
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Event 2-Mam\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Event 2-Mam\EventManagement_Api\bin\System.Web.Http.Owin.xml
+D:\Event 2-Mam\EventManagement_Api\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\de\Microsoft.Data.OData.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\es\Microsoft.Data.OData.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\it\Microsoft.Data.OData.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\de\System.Spatial.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\es\System.Spatial.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\fr\System.Spatial.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\it\System.Spatial.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\ja\System.Spatial.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\ko\System.Spatial.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\ru\System.Spatial.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\zh-Hans\System.Spatial.resources.dll
+D:\Event 2-Mam\EventManagement_Api\bin\zh-Hant\System.Spatial.resources.dll
+D:\Event 2-Mam\EventManagement_Api\obj\Debug\EventManagement_Api.csprojResolveAssemblyReference.cache
+D:\Event 2-Mam\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dgsa.resources
+D:\Event 2-Mam\EventManagement_Api\obj\Debug\EventManagement_Api.csproj.GenerateResource.Cache
+D:\Event 2-Mam\EventManagement_Api\obj\Debug\EventManagement_Api.dll
+D:\Event 2-Mam\EventManagement_Api\obj\Debug\EventManagement_Api.pdb
+E:\Event 2-Mam - 2\EventManagement_Api\bin\EventManagement_Api.dll.config
+E:\Event 2-Mam - 2\EventManagement_Api\bin\EventManagement_Api.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\EventManagement_Api.pdb
+E:\Event 2-Mam - 2\EventManagement_Api\bin\x86\sqlcese40.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\x86\sqlceqp40.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\x86\sqlceme40.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\x86\sqlceer40EN.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\x86\sqlcecompact40.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\x86\sqlceca40.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+E:\Event 2-Mam - 2\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\amd64\sqlcese40.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\amd64\sqlceqp40.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\amd64\sqlceme40.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\amd64\sqlceer40EN.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\amd64\sqlcecompact40.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\amd64\sqlceca40.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+E:\Event 2-Mam - 2\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Event 2-Mam - 2\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Antlr3.Runtime.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\EntityFramework.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\EntityFramework.SqlServer.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\EntityFramework.SqlServerCompact.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Data.Edm.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Data.OData.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Owin.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Owin.Security.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Owin.Security.Google.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Web.Infrastructure.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Newtonsoft.Json.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Owin.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Data.SqlServerCe.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Net.Http.Formatting.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Spatial.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Cors.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Helpers.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Http.Cors.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Http.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Http.OData.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Http.Owin.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Http.WebHost.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Mvc.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Optimization.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Razor.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.WebPages.Deployment.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.WebPages.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.WebPages.Razor.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\WebGrease.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\EntityFramework.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\EntityFramework.SqlServer.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\EntityFramework.SqlServerCompact.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Data.Edm.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Data.OData.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Net.Http.Formatting.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Spatial.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Http.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Http.Cors.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Http.OData.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Newtonsoft.Json.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Helpers.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Http.WebHost.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Mvc.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Optimization.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Razor.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.WebPages.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.WebPages.Deployment.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.WebPages.Razor.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Antlr3.Runtime.pdb
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Owin.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Owin.Security.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Owin.Security.Google.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\System.Web.Http.Owin.xml
+E:\Event 2-Mam - 2\EventManagement_Api\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\de\Microsoft.Data.OData.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\es\Microsoft.Data.OData.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\it\Microsoft.Data.OData.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\de\System.Spatial.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\es\System.Spatial.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\fr\System.Spatial.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\it\System.Spatial.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\ja\System.Spatial.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\ko\System.Spatial.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\ru\System.Spatial.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\zh-Hans\System.Spatial.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\bin\zh-Hant\System.Spatial.resources.dll
+E:\Event 2-Mam - 2\EventManagement_Api\obj\Debug\EventManagement_Api.csprojResolveAssemblyReference.cache
+E:\Event 2-Mam - 2\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dgsa.resources
+E:\Event 2-Mam - 2\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dd.resources
+E:\Event 2-Mam - 2\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dd3.resources
+E:\Event 2-Mam - 2\EventManagement_Api\obj\Debug\EventManagement_Api.csproj.GenerateResource.Cache
+E:\Event 2-Mam - 2\EventManagement_Api\obj\Debug\EventManagement_Api.dll
+E:\Event 2-Mam - 2\EventManagement_Api\obj\Debug\EventManagement_Api.pdb
+D:\RTS Events\EventManagement_Api\bin\EventManagement_Api.dll.config
+D:\RTS Events\EventManagement_Api\bin\EventManagement_Api.dll
+D:\RTS Events\EventManagement_Api\bin\EventManagement_Api.pdb
+D:\RTS Events\EventManagement_Api\bin\x86\sqlcese40.dll
+D:\RTS Events\EventManagement_Api\bin\x86\sqlceqp40.dll
+D:\RTS Events\EventManagement_Api\bin\x86\sqlceme40.dll
+D:\RTS Events\EventManagement_Api\bin\x86\sqlceer40EN.dll
+D:\RTS Events\EventManagement_Api\bin\x86\sqlcecompact40.dll
+D:\RTS Events\EventManagement_Api\bin\x86\sqlceca40.dll
+D:\RTS Events\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+D:\RTS Events\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+D:\RTS Events\EventManagement_Api\bin\amd64\sqlcese40.dll
+D:\RTS Events\EventManagement_Api\bin\amd64\sqlceqp40.dll
+D:\RTS Events\EventManagement_Api\bin\amd64\sqlceme40.dll
+D:\RTS Events\EventManagement_Api\bin\amd64\sqlceer40EN.dll
+D:\RTS Events\EventManagement_Api\bin\amd64\sqlcecompact40.dll
+D:\RTS Events\EventManagement_Api\bin\amd64\sqlceca40.dll
+D:\RTS Events\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+D:\RTS Events\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+D:\RTS Events\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\RTS Events\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\RTS Events\EventManagement_Api\bin\Antlr3.Runtime.dll
+D:\RTS Events\EventManagement_Api\bin\EntityFramework.dll
+D:\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServer.dll
+D:\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServerCompact.dll
+D:\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.dll
+D:\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Data.Edm.dll
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Data.OData.dll
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Owin.dll
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.dll
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.dll
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.dll
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Google.dll
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.dll
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Web.Infrastructure.dll
+D:\RTS Events\EventManagement_Api\bin\Newtonsoft.Json.dll
+D:\RTS Events\EventManagement_Api\bin\Owin.dll
+D:\RTS Events\EventManagement_Api\bin\System.Data.SqlServerCe.dll
+D:\RTS Events\EventManagement_Api\bin\System.Net.Http.Formatting.dll
+D:\RTS Events\EventManagement_Api\bin\System.Spatial.dll
+D:\RTS Events\EventManagement_Api\bin\System.Web.Cors.dll
+D:\RTS Events\EventManagement_Api\bin\System.Web.Helpers.dll
+D:\RTS Events\EventManagement_Api\bin\System.Web.Http.Cors.dll
+D:\RTS Events\EventManagement_Api\bin\System.Web.Http.dll
+D:\RTS Events\EventManagement_Api\bin\System.Web.Http.OData.dll
+D:\RTS Events\EventManagement_Api\bin\System.Web.Http.Owin.dll
+D:\RTS Events\EventManagement_Api\bin\System.Web.Http.WebHost.dll
+D:\RTS Events\EventManagement_Api\bin\System.Web.Mvc.dll
+D:\RTS Events\EventManagement_Api\bin\System.Web.Optimization.dll
+D:\RTS Events\EventManagement_Api\bin\System.Web.Razor.dll
+D:\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Deployment.dll
+D:\RTS Events\EventManagement_Api\bin\System.Web.WebPages.dll
+D:\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Razor.dll
+D:\RTS Events\EventManagement_Api\bin\WebGrease.dll
+D:\RTS Events\EventManagement_Api\bin\EntityFramework.xml
+D:\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServer.xml
+D:\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServerCompact.xml
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Data.Edm.xml
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Data.OData.xml
+D:\RTS Events\EventManagement_Api\bin\System.Net.Http.Formatting.xml
+D:\RTS Events\EventManagement_Api\bin\System.Spatial.xml
+D:\RTS Events\EventManagement_Api\bin\System.Web.Http.xml
+D:\RTS Events\EventManagement_Api\bin\System.Web.Http.Cors.xml
+D:\RTS Events\EventManagement_Api\bin\System.Web.Http.OData.xml
+D:\RTS Events\EventManagement_Api\bin\Newtonsoft.Json.xml
+D:\RTS Events\EventManagement_Api\bin\System.Web.Helpers.xml
+D:\RTS Events\EventManagement_Api\bin\System.Web.Http.WebHost.xml
+D:\RTS Events\EventManagement_Api\bin\System.Web.Mvc.xml
+D:\RTS Events\EventManagement_Api\bin\System.Web.Optimization.xml
+D:\RTS Events\EventManagement_Api\bin\System.Web.Razor.xml
+D:\RTS Events\EventManagement_Api\bin\System.Web.WebPages.xml
+D:\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Deployment.xml
+D:\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Razor.xml
+D:\RTS Events\EventManagement_Api\bin\Antlr3.Runtime.pdb
+D:\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.xml
+D:\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Owin.xml
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.xml
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.xml
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.xml
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Google.xml
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.xml
+D:\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\RTS Events\EventManagement_Api\bin\System.Web.Http.Owin.xml
+D:\RTS Events\EventManagement_Api\bin\de\Microsoft.Data.Edm.resources.dll
+D:\RTS Events\EventManagement_Api\bin\es\Microsoft.Data.Edm.resources.dll
+D:\RTS Events\EventManagement_Api\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\RTS Events\EventManagement_Api\bin\it\Microsoft.Data.Edm.resources.dll
+D:\RTS Events\EventManagement_Api\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\RTS Events\EventManagement_Api\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\RTS Events\EventManagement_Api\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\RTS Events\EventManagement_Api\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\RTS Events\EventManagement_Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\RTS Events\EventManagement_Api\bin\de\Microsoft.Data.OData.resources.dll
+D:\RTS Events\EventManagement_Api\bin\es\Microsoft.Data.OData.resources.dll
+D:\RTS Events\EventManagement_Api\bin\fr\Microsoft.Data.OData.resources.dll
+D:\RTS Events\EventManagement_Api\bin\it\Microsoft.Data.OData.resources.dll
+D:\RTS Events\EventManagement_Api\bin\ja\Microsoft.Data.OData.resources.dll
+D:\RTS Events\EventManagement_Api\bin\ko\Microsoft.Data.OData.resources.dll
+D:\RTS Events\EventManagement_Api\bin\ru\Microsoft.Data.OData.resources.dll
+D:\RTS Events\EventManagement_Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\RTS Events\EventManagement_Api\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\RTS Events\EventManagement_Api\bin\de\System.Spatial.resources.dll
+D:\RTS Events\EventManagement_Api\bin\es\System.Spatial.resources.dll
+D:\RTS Events\EventManagement_Api\bin\fr\System.Spatial.resources.dll
+D:\RTS Events\EventManagement_Api\bin\it\System.Spatial.resources.dll
+D:\RTS Events\EventManagement_Api\bin\ja\System.Spatial.resources.dll
+D:\RTS Events\EventManagement_Api\bin\ko\System.Spatial.resources.dll
+D:\RTS Events\EventManagement_Api\bin\ru\System.Spatial.resources.dll
+D:\RTS Events\EventManagement_Api\bin\zh-Hans\System.Spatial.resources.dll
+D:\RTS Events\EventManagement_Api\bin\zh-Hant\System.Spatial.resources.dll
+D:\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dgsa.resources
+D:\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dd.resources
+D:\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dd3.resources
+D:\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.abc.resources
+D:\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.csproj.GenerateResource.Cache
+D:\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.dll
+D:\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.pdb
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\EventManagement_Api.dll.config
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\EventManagement_Api.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\EventManagement_Api.pdb
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\x86\sqlcese40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\x86\sqlceqp40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\x86\sqlceme40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\x86\sqlceer40EN.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\x86\sqlcecompact40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\x86\sqlceca40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\amd64\sqlcese40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\amd64\sqlceqp40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\amd64\sqlceme40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\amd64\sqlceer40EN.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\amd64\sqlcecompact40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\amd64\sqlceca40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Antlr3.Runtime.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\EntityFramework.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServer.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServerCompact.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Data.Edm.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Data.OData.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Owin.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Google.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Web.Infrastructure.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Newtonsoft.Json.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Owin.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Data.SqlServerCe.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Net.Http.Formatting.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Spatial.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Cors.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Helpers.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Http.Cors.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Http.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Http.OData.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Http.Owin.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Http.WebHost.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Mvc.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Optimization.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Razor.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Deployment.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.WebPages.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Razor.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\WebGrease.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\EntityFramework.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServer.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServerCompact.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Data.Edm.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Data.OData.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Net.Http.Formatting.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Spatial.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Http.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Http.Cors.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Http.OData.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Newtonsoft.Json.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Helpers.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Http.WebHost.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Mvc.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Optimization.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Razor.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.WebPages.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Deployment.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Razor.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Antlr3.Runtime.pdb
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Owin.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Google.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\System.Web.Http.Owin.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\de\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\es\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\fr\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\it\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\ja\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\ko\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\ru\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\de\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\es\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\fr\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\it\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\ja\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\ko\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\ru\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\de\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\es\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\fr\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\it\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\ja\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\ko\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\ru\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\zh-Hans\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\bin\zh-Hant\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dgsa.resources
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dd.resources
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dd3.resources
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.abc.resources
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.csproj.GenerateResource.Cache
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.pdb
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\EventManagement_Api.dll.config
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\EventManagement_Api.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\EventManagement_Api.pdb
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\x86\sqlcese40.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\x86\sqlceqp40.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\x86\sqlceme40.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\x86\sqlceer40EN.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\x86\sqlcecompact40.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\x86\sqlceca40.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\amd64\sqlcese40.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\amd64\sqlceqp40.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\amd64\sqlceme40.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\amd64\sqlceer40EN.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\amd64\sqlcecompact40.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\amd64\sqlceca40.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Antlr3.Runtime.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\EntityFramework.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServer.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServerCompact.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Data.Edm.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Data.OData.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Owin.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Google.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Web.Infrastructure.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Newtonsoft.Json.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Owin.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Data.SqlServerCe.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Net.Http.Formatting.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Spatial.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Cors.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Helpers.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Http.Cors.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Http.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Http.OData.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Http.Owin.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Http.WebHost.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Mvc.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Optimization.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Razor.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Deployment.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.WebPages.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Razor.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\WebGrease.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\EntityFramework.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServer.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServerCompact.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Data.Edm.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Data.OData.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Net.Http.Formatting.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Spatial.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Http.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Http.Cors.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Http.OData.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Newtonsoft.Json.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Helpers.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Http.WebHost.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Mvc.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Optimization.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Razor.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.WebPages.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Deployment.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Razor.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Antlr3.Runtime.pdb
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Owin.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Google.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\System.Web.Http.Owin.xml
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\de\Microsoft.Data.Edm.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\es\Microsoft.Data.Edm.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\it\Microsoft.Data.Edm.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\de\Microsoft.Data.OData.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\es\Microsoft.Data.OData.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\fr\Microsoft.Data.OData.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\it\Microsoft.Data.OData.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\ja\Microsoft.Data.OData.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\ko\Microsoft.Data.OData.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\ru\Microsoft.Data.OData.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\de\System.Spatial.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\es\System.Spatial.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\fr\System.Spatial.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\it\System.Spatial.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\ja\System.Spatial.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\ko\System.Spatial.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\ru\System.Spatial.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\zh-Hans\System.Spatial.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\bin\zh-Hant\System.Spatial.resources.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.csprojResolveAssemblyReference.cache
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dgsa.resources
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dd.resources
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dd3.resources
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.abc.resources
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.csproj.GenerateResource.Cache
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.dll
+D:\RTS Events-Mam\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.pdb
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\EventManagement_Api.dll.config
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\EventManagement_Api.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\EventManagement_Api.pdb
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\x86\sqlcese40.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\x86\sqlceqp40.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\x86\sqlceme40.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\x86\sqlceer40EN.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\x86\sqlcecompact40.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\x86\sqlceca40.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\amd64\sqlcese40.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\amd64\sqlceqp40.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\amd64\sqlceme40.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\amd64\sqlceer40EN.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\amd64\sqlcecompact40.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\amd64\sqlceca40.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Antlr3.Runtime.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\EntityFramework.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServer.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServerCompact.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Data.Edm.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Data.OData.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Google.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Web.Infrastructure.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Newtonsoft.Json.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Owin.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Data.SqlServerCe.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Net.Http.Formatting.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Spatial.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Cors.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Helpers.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.Cors.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.OData.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.Owin.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.WebHost.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Mvc.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Optimization.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Razor.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Deployment.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.WebPages.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Razor.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\WebGrease.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\EntityFramework.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServer.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServerCompact.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Data.Edm.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Data.OData.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Net.Http.Formatting.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Spatial.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.Cors.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.OData.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Newtonsoft.Json.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Helpers.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.WebHost.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Mvc.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Optimization.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Razor.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.WebPages.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Deployment.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Razor.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Antlr3.Runtime.pdb
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Google.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.Owin.xml
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\de\Microsoft.Data.Edm.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\es\Microsoft.Data.Edm.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\it\Microsoft.Data.Edm.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\de\Microsoft.Data.OData.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\es\Microsoft.Data.OData.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\fr\Microsoft.Data.OData.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\it\Microsoft.Data.OData.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\ja\Microsoft.Data.OData.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\ko\Microsoft.Data.OData.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\ru\Microsoft.Data.OData.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\de\System.Spatial.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\es\System.Spatial.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\fr\System.Spatial.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\it\System.Spatial.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\ja\System.Spatial.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\ko\System.Spatial.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\ru\System.Spatial.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\zh-Hans\System.Spatial.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\zh-Hant\System.Spatial.resources.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.csprojResolveAssemblyReference.cache
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dgsa.resources
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dd.resources
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dd3.resources
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.abc.resources
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.csproj.GenerateResource.Cache
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.dll
+E:\RTS Events-Mam Last\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.pdb
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\EventManagement_Api.dll.config
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\EventManagement_Api.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\EventManagement_Api.pdb
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\x86\sqlcese40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\x86\sqlceqp40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\x86\sqlceme40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\x86\sqlceer40EN.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\x86\sqlcecompact40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\x86\sqlceca40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\amd64\sqlcese40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\amd64\sqlceqp40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\amd64\sqlceme40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\amd64\sqlceer40EN.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\amd64\sqlcecompact40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\amd64\sqlceca40.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Antlr3.Runtime.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\EntityFramework.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServer.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServerCompact.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Data.Edm.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Data.OData.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Google.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Web.Infrastructure.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Newtonsoft.Json.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Owin.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Data.SqlServerCe.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Net.Http.Formatting.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Spatial.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Cors.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Helpers.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.Cors.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.OData.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.Owin.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.WebHost.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Mvc.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Optimization.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Razor.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Deployment.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.WebPages.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Razor.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\WebGrease.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\EntityFramework.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServer.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServerCompact.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Data.Edm.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Data.OData.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Net.Http.Formatting.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Spatial.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.Cors.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.OData.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Newtonsoft.Json.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Helpers.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.WebHost.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Mvc.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Optimization.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Razor.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.WebPages.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Deployment.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Razor.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Antlr3.Runtime.pdb
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Google.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\System.Web.Http.Owin.xml
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\de\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\es\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\fr\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\it\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\ja\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\ko\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\ru\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\de\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\es\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\fr\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\it\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\ja\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\ko\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\ru\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\de\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\es\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\fr\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\it\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\ja\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\ko\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\ru\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\zh-Hans\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\bin\zh-Hant\System.Spatial.resources.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.dll
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.pdb
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dbbb.resources
+I:\R_33_final\Razu\Develoment_version\RTS Events-Mam LastNight\RTS Events-Mam Last\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.csproj.GenerateResource.Cache
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\EventManagement_Api.dll.config
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\EventManagement_Api.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\EventManagement_Api.pdb
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\x86\sqlcese40.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\x86\sqlceqp40.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\x86\sqlceme40.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\x86\sqlceer40EN.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\x86\sqlcecompact40.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\x86\sqlceca40.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\amd64\sqlcese40.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\amd64\sqlceqp40.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\amd64\sqlceme40.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\amd64\sqlceer40EN.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\amd64\sqlcecompact40.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\amd64\sqlceca40.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Antlr3.Runtime.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\EntityFramework.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServer.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServerCompact.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Data.Edm.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Data.OData.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Owin.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Google.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Web.Infrastructure.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Newtonsoft.Json.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Owin.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Data.SqlServerCe.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Net.Http.Formatting.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Spatial.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Cors.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Helpers.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Http.Cors.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Http.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Http.OData.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Http.Owin.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Http.WebHost.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Mvc.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Optimization.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Razor.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Deployment.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.WebPages.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Razor.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\WebGrease.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\EntityFramework.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServer.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\EntityFramework.SqlServerCompact.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Data.Edm.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Data.OData.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Net.Http.Formatting.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Spatial.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Http.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Http.Cors.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Http.OData.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Newtonsoft.Json.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Helpers.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Http.WebHost.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Mvc.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Optimization.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Razor.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.WebPages.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Deployment.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.WebPages.Razor.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Antlr3.Runtime.pdb
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Core.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Owin.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Facebook.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Cookies.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Google.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.Twitter.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\System.Web.Http.Owin.xml
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\de\Microsoft.Data.Edm.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\es\Microsoft.Data.Edm.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\it\Microsoft.Data.Edm.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\de\Microsoft.Data.OData.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\es\Microsoft.Data.OData.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\fr\Microsoft.Data.OData.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\it\Microsoft.Data.OData.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\ja\Microsoft.Data.OData.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\ko\Microsoft.Data.OData.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\ru\Microsoft.Data.OData.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\de\System.Spatial.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\es\System.Spatial.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\fr\System.Spatial.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\it\System.Spatial.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\ja\System.Spatial.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\ko\System.Spatial.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\ru\System.Spatial.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\zh-Hans\System.Spatial.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\bin\zh-Hant\System.Spatial.resources.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.Migrations.dbbb.resources
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.csproj.GenerateResource.Cache
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.dll
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.pdb
+D:\RTS Events-Mam Last - copy\RTS Events\EventManagement_Api\obj\Debug\EventManagement_Api.csprojResolveAssemblyReference.cache

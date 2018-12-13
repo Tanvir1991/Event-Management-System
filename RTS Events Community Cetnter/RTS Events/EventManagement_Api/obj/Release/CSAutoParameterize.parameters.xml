@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DbModel-Web.config Connection String" description="DbModel Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:api-dataserver.database.windows.net,1433;Initial Catalog=EventDb;Persist Security Info=False;User ID=Caesar;Password=@Test123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="I:\\R_33_final\\Razu\\Event\ 2\\EventManagement_Api\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DbModel']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="DefaultConnection_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="I:\\R_33_final\\Razu\\Event\ 2\\EventManagement_Api\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="DbModel_DatabasePublish-Web.config Connection String" description="DbModel_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="DbModel_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="I:\\R_33_final\\Razu\\Event\ 2\\EventManagement_Api\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DbModel_DatabasePublish']/@connectionString" />
+  </parameter>
+</parameters>

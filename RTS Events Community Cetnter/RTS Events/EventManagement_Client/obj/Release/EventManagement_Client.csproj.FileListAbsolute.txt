@@ -1,0 +1,198 @@
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\EventManagement_Client.dll.config
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\EventManagement_Client.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\EventManagement_Client.pdb
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Antlr3.Runtime.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\EntityFramework.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\EntityFramework.SqlServer.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.AspNet.Identity.Core.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Data.Edm.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Data.OData.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Data.Services.Client.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Owin.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.Cookies.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.Facebook.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.Google.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.OAuth.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.Twitter.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Web.Infrastructure.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Newtonsoft.Json.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Owin.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\System.Spatial.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\System.Web.Helpers.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\System.Web.Mvc.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\System.Web.Optimization.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\System.Web.Razor.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\System.Web.WebPages.Deployment.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\System.Web.WebPages.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\System.Web.WebPages.Razor.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\WebGrease.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Data.Edm.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Data.OData.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Data.Services.Client.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\System.Spatial.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\System.Web.Helpers.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\System.Web.Mvc.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\System.Web.Optimization.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\System.Web.Razor.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\System.Web.WebPages.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\System.Web.WebPages.Deployment.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\System.Web.WebPages.Razor.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Antlr3.Runtime.pdb
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Newtonsoft.Json.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\EntityFramework.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\EntityFramework.SqlServer.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.AspNet.Identity.Core.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Owin.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.Facebook.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.Cookies.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.OAuth.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.Google.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.Twitter.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\de\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\es\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\fr\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\it\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\ja\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\ko\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\ru\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\de\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\es\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\fr\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\it\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\ja\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\ko\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\ru\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\de\Microsoft.Data.Services.Client.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\es\Microsoft.Data.Services.Client.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\fr\Microsoft.Data.Services.Client.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\it\Microsoft.Data.Services.Client.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\ja\Microsoft.Data.Services.Client.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\ko\Microsoft.Data.Services.Client.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\ru\Microsoft.Data.Services.Client.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\de\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\es\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\fr\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\it\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\ja\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\ko\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\ru\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\zh-Hans\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\bin\zh-Hant\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\obj\Release\EventManagement_Client.dll
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\obj\Release\EventManagement_Client.pdb
+I:\R_33_final\Razu\Event 2\Event 2\EventManagement_Client\obj\Release\EventManagement_Client.csprojResolveAssemblyReference.cache
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\EventManagement_Client.dll.config
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\EventManagement_Client.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\EventManagement_Client.pdb
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Antlr3.Runtime.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\EntityFramework.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\EntityFramework.SqlServer.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.AspNet.Identity.Core.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Data.Edm.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Data.OData.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Data.Services.Client.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Owin.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.Cookies.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.Facebook.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.Google.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.OAuth.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.Twitter.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Web.Infrastructure.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Newtonsoft.Json.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Owin.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\System.Spatial.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\System.Web.Helpers.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\System.Web.Mvc.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\System.Web.Optimization.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\System.Web.Razor.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\System.Web.WebPages.Deployment.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\System.Web.WebPages.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\System.Web.WebPages.Razor.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\WebGrease.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Data.Edm.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Data.OData.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Data.Services.Client.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\System.Spatial.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\System.Web.Helpers.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\System.Web.Mvc.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\System.Web.Optimization.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\System.Web.Razor.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\System.Web.WebPages.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\System.Web.WebPages.Deployment.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\System.Web.WebPages.Razor.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Antlr3.Runtime.pdb
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Newtonsoft.Json.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\EntityFramework.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\EntityFramework.SqlServer.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.AspNet.Identity.Core.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Owin.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.Facebook.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.Cookies.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.OAuth.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.Google.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.Twitter.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\de\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\es\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\fr\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\it\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\ja\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\ko\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\ru\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\de\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\es\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\fr\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\it\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\ja\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\ko\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\ru\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\de\Microsoft.Data.Services.Client.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\es\Microsoft.Data.Services.Client.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\fr\Microsoft.Data.Services.Client.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\it\Microsoft.Data.Services.Client.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\ja\Microsoft.Data.Services.Client.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\ko\Microsoft.Data.Services.Client.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\ru\Microsoft.Data.Services.Client.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\de\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\es\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\fr\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\it\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\ja\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\ko\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\ru\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\zh-Hans\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\bin\zh-Hant\System.Spatial.resources.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\obj\Release\EventManagement_Client.csprojResolveAssemblyReference.cache
+I:\R_33_final\Razu\Event 2\EventManagement_Client\obj\Release\EventManagement_Client.dll
+I:\R_33_final\Razu\Event 2\EventManagement_Client\obj\Release\EventManagement_Client.pdb

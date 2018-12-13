@@ -1,0 +1,98 @@
+﻿<edmx:Edmx Version="1.0" xmlns:edmx="http://schemas.microsoft.com/ado/2007/06/edmx">
+  <edmx:DataServices m:DataServiceVersion="3.0" m:MaxDataServiceVersion="3.0" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+    <Schema Namespace="EventManagement_Api.Models" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+      <EntityType Name="BookingDetails">
+        <Key>
+          <PropertyRef Name="BookingID" />
+        </Key>
+        <Property Name="BookingID" Type="Edm.Int32" Nullable="false" />
+        <Property Name="BookingDate" Type="Edm.DateTime" Nullable="false" />
+        <Property Name="EventDate" Type="Edm.DateTime" Nullable="false" />
+        <Property Name="EventId" Type="Edm.Int32" Nullable="false" />
+        <Property Name="GuestNo" Type="Edm.Int32" Nullable="false" />
+        <Property Name="Catagory" Type="Edm.String" />
+        <Property Name="ProductID" Type="Edm.String" />
+        <Property Name="ProductName" Type="Edm.String" />
+        <Property Name="Quantity" Type="Edm.Int32" Nullable="false" />
+        <Property Name="ProductCost" Type="Edm.Int32" Nullable="false" />
+        <NavigationProperty Name="Product" Relationship="EventManagement_Api.Models.EventManagement__Api_Models_BookingDetails_Product_EventManagement__Api_Models_Product_ProductPartner" ToRole="Product" FromRole="ProductPartner" />
+        <NavigationProperty Name="Event" Relationship="EventManagement_Api.Models.EventManagement__Api_Models_BookingDetails_Event_EventManagement__Api_Models_Event_EventPartner" ToRole="Event" FromRole="EventPartner" />
+      </EntityType>
+      <EntityType Name="Product">
+        <Key>
+          <PropertyRef Name="ProductId" />
+        </Key>
+        <Property Name="ProductId" Type="Edm.Int32" Nullable="false" />
+        <Property Name="CatagoryId" Type="Edm.Int32" Nullable="false" />
+        <Property Name="ProductName" Type="Edm.String" />
+        <Property Name="PictureFile" Type="Edm.String" />
+        <Property Name="Picture" Type="Edm.String" />
+        <Property Name="ProductCost" Type="Edm.Int32" Nullable="false" />
+        <NavigationProperty Name="Catagory" Relationship="EventManagement_Api.Models.EventManagement__Api_Models_Product_Catagory_EventManagement__Api_Models_Catagory_CatagoryPartner" ToRole="Catagory" FromRole="CatagoryPartner" />
+      </EntityType>
+      <EntityType Name="Catagory">
+        <Key>
+          <PropertyRef Name="CatagoryId" />
+        </Key>
+        <Property Name="CatagoryId" Type="Edm.Int32" Nullable="false" />
+        <Property Name="CatagoryName" Type="Edm.String" />
+        <NavigationProperty Name="Products" Relationship="EventManagement_Api.Models.EventManagement__Api_Models_Catagory_Products_EventManagement__Api_Models_Product_ProductsPartner" ToRole="Products" FromRole="ProductsPartner" />
+      </EntityType>
+      <EntityType Name="Event">
+        <Key>
+          <PropertyRef Name="EventId" />
+        </Key>
+        <Property Name="EventId" Type="Edm.Int32" Nullable="false" />
+        <Property Name="EventName" Type="Edm.String" />
+      </EntityType>
+      <Association Name="EventManagement__Api_Models_BookingDetails_Product_EventManagement__Api_Models_Product_ProductPartner">
+        <End Type="EventManagement_Api.Models.Product" Role="Product" Multiplicity="*" />
+        <End Type="EventManagement_Api.Models.BookingDetails" Role="ProductPartner" Multiplicity="0..1" />
+      </Association>
+      <Association Name="EventManagement__Api_Models_BookingDetails_Event_EventManagement__Api_Models_Event_EventPartner">
+        <End Type="EventManagement_Api.Models.Event" Role="Event" Multiplicity="*" />
+        <End Type="EventManagement_Api.Models.BookingDetails" Role="EventPartner" Multiplicity="0..1" />
+      </Association>
+      <Association Name="EventManagement__Api_Models_Product_Catagory_EventManagement__Api_Models_Catagory_CatagoryPartner">
+        <End Type="EventManagement_Api.Models.Catagory" Role="Catagory" Multiplicity="0..1" />
+        <End Type="EventManagement_Api.Models.Product" Role="CatagoryPartner" Multiplicity="0..1" />
+        <ReferentialConstraint>
+          <Principal Role="Catagory">
+            <PropertyRef Name="CatagoryId" />
+          </Principal>
+          <Dependent Role="CatagoryPartner">
+            <PropertyRef Name="CatagoryId" />
+          </Dependent>
+        </ReferentialConstraint>
+      </Association>
+      <Association Name="EventManagement__Api_Models_Catagory_Products_EventManagement__Api_Models_Product_ProductsPartner">
+        <End Type="EventManagement_Api.Models.Product" Role="Products" Multiplicity="*" />
+        <End Type="EventManagement_Api.Models.Catagory" Role="ProductsPartner" Multiplicity="0..1" />
+      </Association>
+    </Schema>
+    <Schema Namespace="Default" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+      <EntityContainer Name="Container" m:IsDefaultEntityContainer="true">
+        <EntitySet Name="BookingDetails" EntityType="EventManagement_Api.Models.BookingDetails" />
+        <EntitySet Name="Products" EntityType="EventManagement_Api.Models.Product" />
+        <EntitySet Name="Catagories" EntityType="EventManagement_Api.Models.Catagory" />
+        <EntitySet Name="Events" EntityType="EventManagement_Api.Models.Event" />
+        <AssociationSet Name="EventManagement__Api_Models_BookingDetails_Product_EventManagement__Api_Models_Product_ProductPartnerSet" Association="EventManagement_Api.Models.EventManagement__Api_Models_BookingDetails_Product_EventManagement__Api_Models_Product_ProductPartner">
+          <End Role="ProductPartner" EntitySet="BookingDetails" />
+          <End Role="Product" EntitySet="Products" />
+        </AssociationSet>
+        <AssociationSet Name="EventManagement__Api_Models_BookingDetails_Event_EventManagement__Api_Models_Event_EventPartnerSet" Association="EventManagement_Api.Models.EventManagement__Api_Models_BookingDetails_Event_EventManagement__Api_Models_Event_EventPartner">
+          <End Role="EventPartner" EntitySet="BookingDetails" />
+          <End Role="Event" EntitySet="Events" />
+        </AssociationSet>
+        <AssociationSet Name="EventManagement__Api_Models_Product_Catagory_EventManagement__Api_Models_Catagory_CatagoryPartnerSet" Association="EventManagement_Api.Models.EventManagement__Api_Models_Product_Catagory_EventManagement__Api_Models_Catagory_CatagoryPartner">
+          <End Role="CatagoryPartner" EntitySet="Products" />
+          <End Role="Catagory" EntitySet="Catagories" />
+        </AssociationSet>
+        <AssociationSet Name="EventManagement__Api_Models_Catagory_Products_EventManagement__Api_Models_Product_ProductsPartnerSet" Association="EventManagement_Api.Models.EventManagement__Api_Models_Catagory_Products_EventManagement__Api_Models_Product_ProductsPartner">
+          <End Role="ProductsPartner" EntitySet="Catagories" />
+          <End Role="Products" EntitySet="Products" />
+        </AssociationSet>
+      </EntityContainer>
+    </Schema>
+  </edmx:DataServices>
+</edmx:Edmx>
